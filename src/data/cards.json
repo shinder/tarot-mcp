@@ -1,0 +1,3360 @@
+[
+  {
+    "slug": "00-fool",
+    "name": "愚者",
+    "enName": "The Fool",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 0,
+    "element": "風",
+    "astro": "天王星",
+    "description": "愚者站在懸崖邊，帶著小包袱與白玫瑰，象徵純真與新的開始。腳邊的小狗提醒他前方的危險，但他依然昂首向前。這張牌代表人生新階段的起點，放下過去，勇敢踏上未知的旅程。",
+    "upright": [
+      "開始",
+      "冒險",
+      "天真",
+      "無限可能",
+      "隨性"
+    ],
+    "enUpright": [
+      "beginnings",
+      "adventure",
+      "innocence",
+      "infinite potential",
+      "spontaneity"
+    ],
+    "reversed": [
+      "魯莽",
+      "猶豫不決",
+      "愚蠢",
+      "缺乏方向"
+    ],
+    "enReversed": [
+      "recklessness",
+      "hesitation",
+      "folly",
+      "no direction"
+    ],
+    "explicit": "站在懸崖邊的旅人，手持白玫瑰與小包袱，腳邊小狗吠叫。陽光燦爛，遠方山巒。",
+    "symbolism": "白玫瑰代表純潔與靈性追求；包袱太小便於行動，象徵輕裝前行；小狗是本能與忠誠的化身，也代表文明對野性的提醒；懸崖是已知與未知的邊界；黃色背景暗示神聖的光明與可能性。",
+    "history": "愚者對應希伯來字母 Aleph，在卡巴拉中是連接超越與展現的橋樑。在金色黎明體系中編號為 0，既不屬於大阿爾克那的開頭也不屬於結尾，而是整個旅程的循環起點。中世紀宮廷中的「弄臣」是其原型，可以說真話而不被懲罰。偉特將愚者置於編號 0，象徵靈性之旅在邏輯範疇之外開始。",
+    "image": "/cards/00-fool.jpg",
+    "thumb": "/cards/thumbs/00-fool.jpg"
+  },
+  {
+    "slug": "01-magician",
+    "name": "魔術師",
+    "enName": "The Magician",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 1,
+    "element": "風",
+    "astro": "水星",
+    "description": "魔術師站在桌前，桌上擺放著聖杯、寶劍、權杖與錢幣，代表四元素齊備。他一手向天、一手指地，象徵「如其在上，如其在下」的連結。這張牌代表你擁有實現目標所需的一切資源與能力。",
+    "upright": [
+      "創造力",
+      "技能",
+      "意志力",
+      "專注",
+      "資源齊備"
+    ],
+    "enUpright": [
+      "creativity",
+      "skill",
+      "willpower",
+      "focus",
+      "resources at hand"
+    ],
+    "reversed": [
+      "操縱",
+      "濫用能力",
+      "缺乏方向",
+      "欺騙"
+    ],
+    "enReversed": [
+      "manipulation",
+      "misused talent",
+      "no direction",
+      "deceit"
+    ],
+    "explicit": "男子站在桌前，桌上四元素齊備。右手持權杖指向天空，左手手指觸地。頭上的無限符號、腰間的銜尾蛇。",
+    "symbolism": "「如其在上，如其在下」——一手向天一手指地，連結靈性與物質兩個層面；桌上的聖杯、寶劍、權杖、錢幣代表四元素已被掌控；無限符號代表永恆循環；紅白玫瑰的花園背景代表欲望與純潔並存；銜尾蛇腰帶代表自我循環的永恆生命。",
+    "history": "魔術師對應希伯來字母 Beth（房屋），Mercury 的化身。在中世紀及文藝復興的魔術傳統中，魔術師是煉金術士的形象，掌握天地之間的對應關係。偉特將其設計為一號牌，象徵顯化的開始——從無（愚者）到有（魔術師）。金色黎明體系中，魔術師是「意志力」的最高表現。",
+    "image": "/cards/01-magician.jpg",
+    "thumb": "/cards/thumbs/01-magician.jpg"
+  },
+  {
+    "slug": "02-high-priestess",
+    "name": "女祭司",
+    "enName": "The High Priestess",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 2,
+    "element": "水",
+    "astro": "月亮",
+    "description": "女祭司坐在聖殿的帷幕前，手持 Torah 經卷，腳踏新月。黑白雙柱代表二元對立，帷幕後是更深層的奧秘。她象徵直覺與潛意識的智慧，提醒你靜下來聆聽內在的聲音。",
+    "upright": [
+      "直覺",
+      "潛意識",
+      "神秘",
+      "內在智慧",
+      "被動"
+    ],
+    "enUpright": [
+      "intuition",
+      "the subconscious",
+      "mystery",
+      "inner wisdom",
+      "receptivity"
+    ],
+    "reversed": [
+      "隱藏的秘密",
+      "表面知識",
+      "忽視直覺"
+    ],
+    "enReversed": [
+      "hidden secrets",
+      "surface knowledge",
+      "ignored intuition"
+    ],
+    "explicit": "女子坐在兩根柱子之間（一黑一白，標記 B 與 J），手持卷軸，腳下有新月，背後帷幕上有石榴圖案。",
+    "symbolism": "黑白雙柱 Boaz 與 Jachim 代表二元對立的力量——陰與陽、黑暗與光明、被動與主動；卷軸上刻著 TORA（律法），代表隱藏的知識；新月象徵直覺與女性週期；帷幕後的聖殿代表潛意識的深處；石榴象徵豐饒與女性神秘，也暗示伊甸園的禁果。",
+    "history": "女祭司對應希伯來字母 Gimel（駱駝），路徑連接 Kether（王冠）與 Tiphareth（美）。原型可追溯至埃及的伊西斯（Isis）、希臘的處女神雅典娜、以及月神阿爾忒彌斯。在金色黎明體系中，她代表「直覺」——超越理性層面的直接感知。偉特首次讓她以坐姿呈現，取代了早期塔羅中教皇旁的女祭司站姿。",
+    "image": "/cards/02-high-priestess.jpg",
+    "thumb": "/cards/thumbs/02-high-priestess.jpg"
+  },
+  {
+    "slug": "03-empress",
+    "name": "女皇",
+    "enName": "The Empress",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 3,
+    "element": "土",
+    "astro": "金星",
+    "description": "女皇坐在豐饒的麥田與森林中，頭戴十二星冠，手持權杖。她代表大地之母的原型，象徵豐收、孕育與感官之美。這張牌鼓勵你擁抱生命中的美好，享受創造的過程。",
+    "upright": [
+      "豐饒",
+      "母性",
+      "創造",
+      "感官享受",
+      "自然"
+    ],
+    "enUpright": [
+      "abundance",
+      "motherhood",
+      "creation",
+      "sensuality",
+      "nature"
+    ],
+    "reversed": [
+      "依賴",
+      "缺乏創造力",
+      "情感枯竭",
+      "過度保護"
+    ],
+    "enReversed": [
+      "dependence",
+      "creative block",
+      "emotional depletion",
+      "smothering"
+    ],
+    "explicit": "金髮女子坐在柔軟的座椅上，頭戴十二星冠，手持權杖。周圍是綠色麥田與森林，腳下有愛心符號。",
+    "symbolism": "十二星冠代表黃道十二宮，象徵她統御整個自然循環；權杖上的地球符號代表她是大自然之母；麥田代表豐收與物質富足；森林象徵生命力；愛心圖案暗示維納斯——愛與美的女神；流水暗示孕育與情感。",
+    "history": "女皇對應希伯來字母 Daleth（門），路徑連接 Chokmah（智慧）與 Binah（理解）。原型是希臘神話中的得墨忒耳（Demeter）——農業與四季之母，也是維納斯/阿芙蘿黛蒂的豐饒面向。在金色黎明體系中代表「智能的理解」——不是理性的分析，而是整體性的領悟。偉特將她設計為明顯的母性形象，與女祭司的冷靜形成對比。",
+    "image": "/cards/03-empress.jpg",
+    "thumb": "/cards/thumbs/03-empress.jpg"
+  },
+  {
+    "slug": "04-emperor",
+    "name": "皇帝",
+    "enName": "The Emperor",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 4,
+    "element": "火",
+    "astro": "牡羊座",
+    "description": "皇帝坐在石座上，身披鎧甲，手持權杖與寶球。背景是荒蕪的山脈，象徵他征服的疆域。他代表秩序、結構與權威，提醒你建立穩固的基礎，以紀律和理性面對挑戰。",
+    "upright": [
+      "權威",
+      "結構",
+      "秩序",
+      "紀律",
+      "領導力"
+    ],
+    "enUpright": [
+      "authority",
+      "structure",
+      "order",
+      "discipline",
+      "leadership"
+    ],
+    "reversed": [
+      "暴政",
+      "缺乏紀律",
+      "失控",
+      "濫用權力"
+    ],
+    "enReversed": [
+      "tyranny",
+      "indiscipline",
+      "loss of control",
+      "abuse of power"
+    ],
+    "explicit": "白鬚男子坐在石座上，身披鎧甲，右手持權杖，左手持寶球。背景是荒蕪的山脈，前方有河流。",
+    "symbolism": "鎧甲代表他隨時準備戰鬥；石座象徵穩固與不可動搖；權杖底部的公羊頭代表牡羊座——領導與開創；寶球代表他對物質世界的統治；荒山象徵他已征服的疆域；河流暗示時間的流逝與生命的延續，在他掌控之中。",
+    "history": "皇帝對應希伯來字母 Tzaddi（魚鉤），但在偉特體系中與牡羊座關聯最強。原型是羅馬皇帝、宙斯/朱庇特——天空之父與秩序的制定者。在金色黎明體系中代表「實現」——將女皇的豐饒轉化為結構化的文明。與女皇的柔軟自然形成對比，皇帝代表的是人為建立的法律與秩序。",
+    "image": "/cards/04-emperor.jpg",
+    "thumb": "/cards/thumbs/04-emperor.jpg"
+  },
+  {
+    "slug": "05-hierophant",
+    "name": "教皇",
+    "enName": "The Hierophant",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 5,
+    "element": "土",
+    "astro": "金牛座",
+    "description": "教皇坐在教堂中，兩位僧侶跪在他面前。他手持三重十字權杖，代表身、心、靈的統合。這張牌象徵傳統智慧與精神導師，鼓勵你尋求正規的學習途徑或遵循既定的規範。",
+    "upright": [
+      "傳統",
+      "信仰",
+      "教育",
+      "精神導師",
+      "體制"
+    ],
+    "enUpright": [
+      "tradition",
+      "faith",
+      "education",
+      "spiritual mentor",
+      "institutions"
+    ],
+    "reversed": [
+      "反叛",
+      "非正統",
+      "質疑權威",
+      "僵化"
+    ],
+    "enReversed": [
+      "rebellion",
+      "unorthodoxy",
+      "questioning authority",
+      "rigidity"
+    ],
+    "explicit": "教皇坐在教堂中的石座上，手持三重十字權杖。兩位僧侶跪在下方，一人剃髮，一人戴冠。兩根灰色柱子。",
+    "symbolism": "三重十字代表身、心、靈三層次的統合，也暗示教皇的三重權威；兩位信徒代表不同的信仰路徑——剃髮者代表謙遜的苦修，戴冠者代表世俗權力的服從；灰色柱子代表平衡與傳統的穩固；鑰匙象徵通往天國的權力。",
+    "history": "教皇對應希伯來字母 Vav（釘子），與金牛座關聯。原型是教皇（教宗），也對應希臘神話中的克洛諾斯——時間之父與秩序的守護者。在金色黎明體系中代表「聲音與迴響」——神聖知識的傳遞。偉特本人是金色黎明成員，也是虔誠的天主教徒，這張牌反映了他對正統宗教的複雜態度——既尊重其傳承，也暗示其可能成為靈性的枷鎖。",
+    "image": "/cards/05-hierophant.jpg",
+    "thumb": "/cards/thumbs/05-hierophant.jpg"
+  },
+  {
+    "slug": "06-lovers",
+    "name": "戀人",
+    "enName": "The Lovers",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 6,
+    "element": "風",
+    "astro": "雙子座",
+    "description": "亞當與夏娃站在伊甸園中，天使拉斐爾在天空祝福。背後是生命之樹與善惡知識樹，蛇纏繞其上。這張牌不僅代表愛情，更象徵重要的價值選擇——你必須忠於自己的內心。",
+    "upright": [
+      "愛情",
+      "選擇",
+      "和諧",
+      "價值觀",
+      "關係"
+    ],
+    "enUpright": [
+      "love",
+      "choice",
+      "harmony",
+      "values",
+      "relationship"
+    ],
+    "reversed": [
+      "失衡",
+      "衝突",
+      "分離",
+      "錯誤的選擇"
+    ],
+    "enReversed": [
+      "imbalance",
+      "conflict",
+      "separation",
+      "a wrong choice"
+    ],
+    "explicit": "裸體男女站在伊甸園中，背後有生命之樹與善惡知識樹，蛇纏繞其上。天空中有大天使，太陽照耀。",
+    "symbolism": "亞當背後是生命之樹（12 火焰），夏娃背後是知識樹與蛇——代表男性靈性、女性知覺的古典對應；大天使拉斐爾是療癒天使，暗示愛的選擇需要療癒與整合；太陽代表意識的覺醒；五葉山代表感官；蛇代表知識的代價與轉化。",
+    "history": "戀人對應希伯來字母 Zain（劍），與雙子座關聯。原型是伊甸園的亞當與夏娃，也是希臘神話中在冥界與陽間之間往返的珀耳塞福涅。偉特的前身——馬賽塔羅的戀人牌，描繪的是一個男人在兩個女人之間選擇，帶有道德判斷意味。偉特將其改為伊甸園場景，強調「選擇」而非「誘惑」，將道德層面提升為價值觀的抉擇。",
+    "image": "/cards/06-lovers.jpg",
+    "thumb": "/cards/thumbs/06-lovers.jpg"
+  },
+  {
+    "slug": "07-chariot",
+    "name": "戰車",
+    "enName": "The Chariot",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 7,
+    "element": "水",
+    "astro": "巨蟹座",
+    "description": "戰士駕馭黑白雙獅拉的戰車，沒有韁繩，僅靠意志力控制方向。他頭戴星冠，肩披月甲。這張牌代表以堅定的意志克服障礙，透過自律與決心取得勝利。",
+    "upright": [
+      "意志力",
+      "勝利",
+      "決心",
+      "控制",
+      "前進"
+    ],
+    "enUpright": [
+      "willpower",
+      "victory",
+      "determination",
+      "control",
+      "forward motion"
+    ],
+    "reversed": [
+      "失控",
+      "失敗",
+      "侵略性",
+      "缺乏方向"
+    ],
+    "enReversed": [
+      "loss of control",
+      "defeat",
+      "aggression",
+      "no direction"
+    ],
+    "explicit": "年輕戰士站在戰車中，頭戴星冠，肩披月飾。兩匹獅身人面獸（一黑一白）拉車，沒有韁繩。前方有河與城。",
+    "symbolism": "黑白雙獸代表對立力量的平衡——不能靠韁繩控制，只能靠意志；星冠代表天體的智慧；月飾暗示情感的深度；肩上的兩個月彎代表陰陽的統合；戰車的方形頂篷代表天穹；手持權杖是魔術師的延伸——從個人意志到集體行動。",
+    "history": "戰車對應希伯來字母 Cheth（籬笆），與巨蟹座關聯。原型是希臘神話中的太陽神赫利俄斯駕馭太陽戰車，也是印度教的阿周那在《薄伽梵歌》中駕馭戰車的場景。在金色黎明體系中代表「智慧的房屋」——靈魂的載體。偉特將兩匹馬改為兩隻獅身人面獸，強調了謎題與直覺的元素——這不是單純的征服，更是對矛盾的統合。",
+    "image": "/cards/07-chariot.jpg",
+    "thumb": "/cards/thumbs/07-chariot.jpg"
+  },
+  {
+    "slug": "08-strength",
+    "name": "力量",
+    "enName": "Strength",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 8,
+    "element": "火",
+    "astro": "獅子座",
+    "description": "一位女子輕柔地撫摸獅子的嘴，頭上的無限符號象徵永恆的力量。她不是用蠻力，而是以溫柔與耐心馴服野獸。這張牌代表真正的力量來自內在的勇氣與愛，而非暴力。",
+    "upright": [
+      "勇氣",
+      "耐心",
+      "內在力量",
+      "溫柔",
+      "馴服"
+    ],
+    "enUpright": [
+      "courage",
+      "patience",
+      "inner strength",
+      "gentleness",
+      "taming"
+    ],
+    "reversed": [
+      "軟弱",
+      "自我懷疑",
+      "失控",
+      "暴力"
+    ],
+    "enReversed": [
+      "weakness",
+      "self-doubt",
+      "loss of control",
+      "violence"
+    ],
+    "explicit": "女子在山間空地，頭上無限符號，溫柔地撫摸一隻獅子的嘴。獅子被馴服，尾巴垂下。遠方有山。",
+    "symbolism": "無限符號代表永恆的內在力量；獅子代表本能、野性與原始慾望；女子不靠蠻力而是以愛馴服——暗示真正的力量不是壓制而是引導；花環與長裙代表自然的力量；山背景代表更高的目標；紅色獅子與白色女子形成對比，暗示激情與純潔的結合。",
+    "history": "力量對應希伯來字母 Teth（蛇），與獅子座關聯。在馬賽塔羅中編號為 11，偉特將其改為 8，與正義對調——強調內在力量優先於外在公正。原型是希臘神話中的赫拉克勒斯徒手降伏涅墨獅子，但偉特將征服的場景改為溫柔的撫摸，反映了他對「力量」的重新定義——不是暴力，而是愛與耐心。金色黎明體系中代表「智慧的力量」。",
+    "image": "/cards/08-strength.jpg",
+    "thumb": "/cards/thumbs/08-strength.jpg"
+  },
+  {
+    "slug": "09-hermit",
+    "name": "隱者",
+    "enName": "The Hermit",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 9,
+    "element": "土",
+    "astro": "處女座",
+    "description": "隱者站在山巔，手持燈籠照亮前方的路。他獨自一人，象徵向內探索的旅程。這張牌提醒你暫時從喧囂中抽離，透過獨處與反思找到真正的答案。",
+    "upright": [
+      "內省",
+      "孤獨",
+      "智慧",
+      "指引",
+      "沉思"
+    ],
+    "enUpright": [
+      "introspection",
+      "solitude",
+      "wisdom",
+      "guidance",
+      "contemplation"
+    ],
+    "reversed": [
+      "孤立",
+      "寂寞",
+      "退縮",
+      "拒絕建議"
+    ],
+    "enReversed": [
+      "isolation",
+      "loneliness",
+      "withdrawal",
+      "refusing advice"
+    ],
+    "explicit": "灰袍老者站在雪山之巔，手持發光燈籠，另一手持長杖。燈籠內有六芒星。前方是懸崖。",
+    "symbolism": "灰袍代表謙遜與隱退；燈籠中的六芒星代表所羅門之印——隱藏的智慧之光；長杖是魔術師權杖的繼承，但從行動工具變為支撐的工具；雪山代表靈性追求的孤獨高度；燈籠只照亮腳下的路，暗示一步一步前進，不求一覽全局。",
+    "history": "隱者對應希伯來字母 Yod（手），與處女座關聯。原型是希臘神話中的克洛諾斯（時間老人）、以及聖經中的以諾——與神同行的人。在金色黎明體系中代表「手」——行動與技藝的最高表現。偉特將其設計為正面站立、手持燈籠的形象，取代了早期塔羅中拄杖行走的老人，強調「照亮他人」而非「獨自前行」。",
+    "image": "/cards/09-hermit.jpg",
+    "thumb": "/cards/thumbs/09-hermit.jpg"
+  },
+  {
+    "slug": "10-wheel-of-fortune",
+    "name": "命運之輪",
+    "enName": "Wheel of Fortune",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 10,
+    "element": "火",
+    "astro": "木星",
+    "description": "命運之輪轉動，四角有天使、鷹、牛、獅四活物。輪上的蛇與阿努比斯代表生命的起伏。這張牌提醒你世事無常，好運與壞運都是循環的一部分，順應變化才能掌握機遇。",
+    "upright": [
+      "命運",
+      "轉折",
+      "循環",
+      "機遇",
+      "因果"
+    ],
+    "enUpright": [
+      "fate",
+      "a turning point",
+      "cycles",
+      "opportunity",
+      "cause and effect"
+    ],
+    "reversed": [
+      "厄運",
+      "停滯",
+      "抗拒改變",
+      "失控"
+    ],
+    "enReversed": [
+      "misfortune",
+      "stagnation",
+      "resisting change",
+      "loss of control"
+    ],
+    "explicit": "巨大輪子居中，輪上有三個生物：右側阿努比斯、左側蛇、上方獅身人面獸。四角有四活物：天使、鷹、獅、牛，各持一本書。藍天。",
+    "symbolism": "輪子上的四個字母 YHVH（上帝之名）與 TORA（律法）交替排列，暗示命運與律法交織；阿努比斯代表死亡與轉化，蛇代表下降與墮落，獅身人面獸代表智慧與抉擇；四活物對應四福音書與四元素，代表宇宙的見證者；輪子本身代表循環——上升必有下降，興盛必有衰落。",
+    "history": "命運之輪對應希伯來字母 Kaph（拳頭），與木星關聯。原型是希臘神話中的命運三女神——克洛索紡線、拉刻西斯量度、阿特洛波斯剪斷。中世紀哲學中 Fortuna 的輪子是常見主題，國王在頂端，平民在底部，隨時可能翻轉。偉特加入了四活物的意象，來自《以西結書》和《啟示錄》的異象，將命運從隨機提升為神聖計劃的一部分。",
+    "image": "/cards/10-wheel-of-fortune.jpg",
+    "thumb": "/cards/thumbs/10-wheel-of-fortune.jpg"
+  },
+  {
+    "slug": "11-justice",
+    "name": "正義",
+    "enName": "Justice",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 11,
+    "element": "風",
+    "astro": "天秤座",
+    "description": "正義女神手持天秤與寶劍，坐在雙柱之間。天秤衡量是非，寶劍斬斷虛假。這張牌代表公平與真相終將到來，你的行為會帶來相應的後果，誠實面對自己是最重要的。",
+    "upright": [
+      "公平",
+      "真相",
+      "因果",
+      "法律",
+      "平衡"
+    ],
+    "enUpright": [
+      "fairness",
+      "truth",
+      "consequence",
+      "law",
+      "balance"
+    ],
+    "reversed": [
+      "不公",
+      "偏見",
+      "逃避責任",
+      "法律問題"
+    ],
+    "enReversed": [
+      "injustice",
+      "bias",
+      "dodging responsibility",
+      "legal trouble"
+    ],
+    "explicit": "女子坐在石座上，雙柱之間。右手持劍向上，左手持天秤。紫色帷幕，紅色披風。腳尖露出。",
+    "symbolism": "劍代表理性的斷斷——斬斷虛假與混淆；天秤代表衡量與平衡；雙柱延續女祭司的 Boaz 與 Jachim，暗示公正建立在二元對立的基礎上；紅色披風代表行動的勇氣；帷幕暗示正義背後是更深層的法則；腳踏石面，象徵她立基於現實。",
+    "history": "正義對應希伯來字母 Lamed（牛鞭），與天秤座關聯。原型是希臘神話中的阿斯特萊亞——最後離開人間的女神，代表黃金時代的正義。在馬賽塔羅中編號為 8，偉特將其與力量對調為 11，理由是：正義需要內在力量作為基礎。金色黎明體系中代表「平衡的力量」——不是靜態的平等，而是動態的因果均衡。",
+    "image": "/cards/11-justice.jpg",
+    "thumb": "/cards/thumbs/11-justice.jpg"
+  },
+  {
+    "slug": "12-hanged-man",
+    "name": "吊人",
+    "enName": "The Hanged Man",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 12,
+    "element": "水",
+    "astro": "海王星",
+    "description": "吊人倒掛在 T 字形樹上，表情平靜，頭上有光環。他自願懸吊，象徵以不同的角度看待世界。這張牌代表暫停與犧牲，有時必須放手才能獲得更大的自由。",
+    "upright": [
+      "犧牲",
+      "放手",
+      "新視角",
+      "等待",
+      "臣服"
+    ],
+    "enUpright": [
+      "sacrifice",
+      "letting go",
+      "a new perspective",
+      "waiting",
+      "surrender"
+    ],
+    "reversed": [
+      "停滯",
+      "固執",
+      "無謂的犧牲",
+      "拒絕改變"
+    ],
+    "enReversed": [
+      "stagnation",
+      "stubbornness",
+      "pointless sacrifice",
+      "refusing change"
+    ],
+    "explicit": "男子倒掛在 T 字形樹上，一腳綁在樹幹。雙手背後，頭有光環。表情平靜。地面有金幣與水。",
+    "symbolism": "倒掛代表視角的翻轉——看世界的新方式；T 字形樹暗示 tau 十字（生命之樹的基礎）；光環代表他不是受罰而是自願的犧牲；背後的雙手暗示放下控制；從右腳懸掛代表以太陽之力支持的金星之愛；金幣不從口袋掉出，暗示犧牲不是失去而是轉化。",
+    "history": "吊人對應希伯來字母 Mem（水），與海王星關聯。原型是北歐神話中的奧丁——倒掛在世界之樹上九天九夜以獲得盧恩文字的智慧。也是基督教中耶穌被釘十字架的預像。在金色黎明體系中代表「犧牲的智慧」——不是被動受苦，而是主動的臣服。偉特將其設計為頭上有光環，強調這不是刑罰而是靈性選擇。",
+    "image": "/cards/12-hanged-man.jpg",
+    "thumb": "/cards/thumbs/12-hanged-man.jpg"
+  },
+  {
+    "slug": "13-death",
+    "name": "死神",
+    "enName": "Death",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 13,
+    "element": "水",
+    "astro": "天蠍座",
+    "description": "死神騎白馬，腳下躺著國王、主教、婦人與小孩，象徵死亡面前人人平等。遠方太陽升起，代表新的開始。這張牌極少指肉體死亡，而是舊階段的結束與新生的到來。",
+    "upright": [
+      "結束",
+      "轉變",
+      "重生",
+      "放下",
+      "淨化"
+    ],
+    "enUpright": [
+      "endings",
+      "transformation",
+      "rebirth",
+      "letting go",
+      "clearing away"
+    ],
+    "reversed": [
+      "抗拒改變",
+      "停滯",
+      "恐懼",
+      "腐朽"
+    ],
+    "enReversed": [
+      "resisting change",
+      "stagnation",
+      "fear",
+      "decay"
+    ],
+    "explicit": "骷髏騎士騎白色戰馬，手持黑旗幟上有白色玫瑰花。腳下有國王、主教、婦人、小孩。遠方太陽從水中升起。",
+    "symbolism": "白馬代表純淨的轉化力量，不是邪惡；黑旗上的白玫瑰暗示死亡中孕育新生；國王被踐踏代表世俗權力的終結；主教代表宗教權威的無效；婦人跪下代表對變革的抗拒；小孩好奇地看代表新生代對轉變的開放；遠方的日出是承諾——每個結束都是新開始。",
+    "history": "死神對應希伯來字母 Nun（魚），與天蠍座關聯。原型是希臘神話中的哈迪斯——冥界之王，也是收割者克洛諾斯。中世紀的黑死病使死亡成為歐洲文化的核心主題。偉特刻意將其命名為「Death」而非「The Death」，強調的是過程而非人格化的死神。金色黎明體系中代表「轉化的智慧」——蛻變的必經之路。",
+    "image": "/cards/13-death.jpg",
+    "thumb": "/cards/thumbs/13-death.jpg"
+  },
+  {
+    "slug": "14-temperance",
+    "name": "節制",
+    "enName": "Temperance",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 14,
+    "element": "火",
+    "astro": "射手座",
+    "description": "天使將水從一個杯子倒入另一個，一腳踏水一腳踏地，象徵物質與精神的調和。胸口的三角形代表神性。這張牌鼓勵你尋找中庸之道，以耐心與溫和的方式達成目標。",
+    "upright": [
+      "平衡",
+      "調和",
+      "耐心",
+      "中庸",
+      "融合"
+    ],
+    "enUpright": [
+      "balance",
+      "moderation",
+      "patience",
+      "the middle way",
+      "blending"
+    ],
+    "reversed": [
+      "失衡",
+      "過度",
+      "缺乏節制",
+      "衝突"
+    ],
+    "enReversed": [
+      "imbalance",
+      "excess",
+      "lack of restraint",
+      "conflict"
+    ],
+    "explicit": "天使站在池邊草地，一腳踏水一腳踏地。手持兩個杯子，水從一個倒入另一個。胸口有三角形，額有火焰。",
+    "symbolism": "兩杯之間的水流不斷裂，代表完美的調和與平衡；一腳水一腳地代表靈性與物質的統合；胸口三角形代表火元素與神性；額上火焰代表直覺的照明；水池代表潛意識；遠方的山代表靈性目標；鳶尾花代表女神的訊息。",
+    "history": "節制對應希伯來字母 Samech（支柱），與射手座關聯。原型是希臘神話中的伊里斯（Iris）——彩虹女神，天與地的信使。在金色黎明體系中代表「藝術」——不是美術，而是煉金術的 ars，將對立元素融合為一的技藝。偉特將天使設計為無性別特徵的形象，暗示調和超越二元。在早期塔羅中這張牌名為「Temperance」（節制），但偉特的設計更接近「煉金」而非「克制」。",
+    "image": "/cards/14-temperance.jpg",
+    "thumb": "/cards/thumbs/14-temperance.jpg"
+  },
+  {
+    "slug": "15-devil",
+    "name": "惡魔",
+    "enName": "The Devil",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 15,
+    "element": "土",
+    "astro": "摩羯座",
+    "description": "惡魔站在石座上，亞當與夏娃被鎖鏈束縛，但鎖鏈其實是鬆的。這張牌代表你被自己的慾望、恐懼或成癮所困，但解脫的鑰匙其實在自己手中——你隨時可以選擇自由。",
+    "upright": [
+      "束縛",
+      "慾望",
+      "物質主義",
+      "成癮",
+      "陰影"
+    ],
+    "enUpright": [
+      "bondage",
+      "desire",
+      "materialism",
+      "addiction",
+      "the shadow"
+    ],
+    "reversed": [
+      "解放",
+      "擺脫束縛",
+      "覺醒",
+      "面對恐懼"
+    ],
+    "enReversed": [
+      "liberation",
+      "breaking free",
+      "awakening",
+      "facing fear"
+    ],
+    "explicit": "黑色山羊頭惡魔坐在石座上，頭上有五芒星倒置。亞當與夏娃裸身被鎖鏈連接。男性有尾巴與角，女性只連著果實鏈。",
+    "symbolism": "倒五芒星代表精神被物質奴役；山羊是摩羯座的象徵——野心與物質主義的極致；鎖鏈鬆弛，暗示束縛是自願的；男性的尾巴暗示墮落到動物性；女性的果實鏈連到惡魔，代表夏娃的知識被誤用；石座代表僵化的物質結構；火把代表慾望的燃燒。",
+    "history": "惡魔對應希伯來字母 Ayin（眼），與摩羯座關聯。原型是基督教中的路西法——墮落天使，也是希臘神話中的潘——山羊神的野性。在金色黎明體系中代表「物質的幻象」——不是真正的邪惡，而是對物質世界的誤認。偉特的設計明顯參考了李維（Eliphas Levi）畫的巴風特（Baphomet），將山羊頭與倒五芒星結合，暗示魔鬼是人類自身陰影的投射。",
+    "image": "/cards/15-devil.jpg",
+    "thumb": "/cards/thumbs/15-devil.jpg"
+  },
+  {
+    "slug": "16-tower",
+    "name": "高塔",
+    "enName": "The Tower",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 16,
+    "element": "火",
+    "astro": "火星",
+    "description": "閃電擊中高塔，皇冠墜落，兩人從塔中跌落。這張牌代表突然的崩壞與真相的揭露——那些建立在虛假之上的結構終將倒塌。雖然痛苦，但這是必要的淨化與覺醒。",
+    "upright": [
+      "崩壞",
+      "覺醒",
+      "真相",
+      "衝擊",
+      "解放"
+    ],
+    "enUpright": [
+      "collapse",
+      "awakening",
+      "truth",
+      "shock",
+      "release"
+    ],
+    "reversed": [
+      "逃避災難",
+      "拖延",
+      "勉強維持",
+      "恐懼改變"
+    ],
+    "enReversed": [
+      "averted disaster",
+      "delay",
+      "barely holding on",
+      "fear of change"
+    ],
+    "explicit": "高塔被閃電擊中，塔頂皇冠墜落。兩人從塔中跌落。背景是黑暗的天空與遠方的水。",
+    "symbolism": "閃電代表突然的真相——神聖力量的介入；墜落的皇冠代表虛假權威的瓦解；兩人跌落代表舊我的死亡——22 個 Yod（火花）如雨落下，暗示新生；塔本身代表 ego 的結構——越堅固崩塌越慘烈；黑暗天空暗示危機中的無明；遠方的水代表潛意識的洗滌。",
+    "history": "高塔對應希伯來字母 Peh（嘴），與火星關聯。原型是聖經中的巴別塔——人類試圖以己力通天而被打散，也是希臘神話中宙斯的雷霆。在馬賽塔羅中名為「La Maison Dieu」（上帝之家），暗示被擊的不是任意建築而是宗教機構。偉特改稱「The Tower」並加入閃電，強調這是神聖介入而非偶然災難。金色黎明體系中代表「衝擊的力量」——必要的崩壞。",
+    "image": "/cards/16-tower.jpg",
+    "thumb": "/cards/thumbs/16-tower.jpg"
+  },
+  {
+    "slug": "17-star",
+    "name": "星星",
+    "enName": "The Star",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 17,
+    "element": "風",
+    "astro": "水瓶座",
+    "description": "裸體女子跪在池邊，將水倒入池中與大地。天空有八顆星，最大的星代表希望。經歷高塔的崩壞後，星星帶來療癒與平靜，提醒你保持信念，宇宙會指引方向。",
+    "upright": [
+      "希望",
+      "療癒",
+      "靈感",
+      "寧靜",
+      "信念"
+    ],
+    "enUpright": [
+      "hope",
+      "healing",
+      "inspiration",
+      "serenity",
+      "faith"
+    ],
+    "reversed": [
+      "絕望",
+      "失去信心",
+      "灰心",
+      "停滯"
+    ],
+    "enReversed": [
+      "despair",
+      "lost faith",
+      "discouragement",
+      "stagnation"
+    ],
+    "explicit": "裸體女子跪在水邊，右手倒水入池，左手倒水於地。天空有八顆星，中央一顆最大。背景有山與大樹。",
+    "symbolism": "八顆星代表八大行星與靈性指引；中央大星代表天狼星——靈性之光的源頭；裸體代表真相的裸露與脆弱；兩種倒水代表意識（池）與潛意識（土地）的雙重滋養；水不斷流，暗示希望源源不絕；鳥代表靈魂的自由；山代表遠方的靈性目標。",
+    "history": "星星對應希伯來字母 Tzaddi（魚鉤），與水瓶座關聯。原型是希臘神話中的阿斯特萊亞——最後離開人間的正義女神，化為處女座，但在偉特的設計中她回到了人間。在金色黎明體系中代表「靈感的來源」——經歷高塔的崩壞後，星星帶來療癒。偉特將其設計為裸體而非衣冠，象徵在高塔崩壞後，所有防護都已剝落，但內在的光依然閃耀。",
+    "image": "/cards/17-star.jpg",
+    "thumb": "/cards/thumbs/17-star.jpg"
+  },
+  {
+    "slug": "18-moon",
+    "name": "月亮",
+    "enName": "The Moon",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 18,
+    "element": "水",
+    "astro": "雙魚座",
+    "description": "月亮下有兩座塔，狼與狗對月嚎叫，龍蝦從水中爬出。這張牌代表潛意識的陰影與迷惘——你看不清前方的路，但直覺會引導你穿越黑暗。",
+    "upright": [
+      "幻覺",
+      "恐懼",
+      "潛意識",
+      "直覺",
+      "迷惘"
+    ],
+    "enUpright": [
+      "illusion",
+      "fear",
+      "the subconscious",
+      "intuition",
+      "confusion"
+    ],
+    "reversed": [
+      "真相浮現",
+      "恐懼消散",
+      "清晰",
+      "解脫"
+    ],
+    "enReversed": [
+      "truth surfacing",
+      "fear fading",
+      "clarity",
+      "release"
+    ],
+    "explicit": "月亮中有人的面孔，月光如雨滴落下。兩根柱子之間有狼與狗對月嚎叫，龍蝦從水中爬出。前方有蜿蜒小路。",
+    "symbolism": "月光如雨代表潛意識的影響滲透；狼代表野性本能，狗代表馴化的本能，兩者對月嚎叫代表意識與潛意識的對立；龍蝦代表從無意識深處浮現的原型；雙柱延續女祭司的 Boaz/Jachim；蜿蜒小路代表不明確的方向；月亮的面孔暗示直覺而非理性的指引。",
+    "history": "月亮對應希伯來字母 Qoph（後腦），與雙魚座關聯。原型是希臘神話中的赫卡忒——月之暗面、十字路口的女神。在金色黎明體系中代表「幻象」——潛意識投射的恐懼。偉特加入了龍蝦的元素，來自榮格的原型理論——從集體無意識中浮現的原始意象。在金色黎明傳統中，月亮是高塔之後、太陽之前的暗夜，是旅程中最危險的階段。",
+    "image": "/cards/18-moon.jpg",
+    "thumb": "/cards/thumbs/18-moon.jpg"
+  },
+  {
+    "slug": "19-sun",
+    "name": "太陽",
+    "enName": "The Sun",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 19,
+    "element": "火",
+    "astro": "太陽",
+    "description": "大太陽照耀下，小孩騎在白馬上，手持紅色旗幟。向日葵在背景盛開。這張牌是整副牌中最正面的牌之一，代表純粹的快樂、成功與生命力，一切都清晰明朗。",
+    "upright": [
+      "快樂",
+      "成功",
+      "活力",
+      "清晰",
+      "童真"
+    ],
+    "enUpright": [
+      "joy",
+      "success",
+      "vitality",
+      "clarity",
+      "childlike wonder"
+    ],
+    "reversed": [
+      "暫時的挫折",
+      "陰霾",
+      "缺乏活力",
+      "過度樂觀"
+    ],
+    "enReversed": [
+      "a temporary setback",
+      "gloom",
+      "low energy",
+      "over-optimism"
+    ],
+    "explicit": "大太陽照耀，有人的面孔。裸體小孩騎白馬，手持紅色旗幟。牆上有向日葵。",
+    "symbolism": "太陽的面孔代表意識的覺醒——完全的照明；裸體小孩代表純真與新生——愚者旅程的圓滿；白馬代表純淨的意志力——戰車的延續但不再對立；紅旗代表勝利與熱情；向日葵代表永遠朝向光明；牆代表安全與邊界——在光明中也有保護。",
+    "history": "太陽對應希伯來字母 Resh（頭），與太陽本身關聯。原型是希臘神話中的阿波羅——光明之神，也是埃及的太陽神 Ra。在金色黎明體系中代表「明晰」——完全的意識覺醒。偉特的設計在早期版本中有兩個小孩，後來改為一個，象徵個體的統合而非二元。在馬賽塔羅中太陽牌常描繪一對戀人在陽光下，偉特的版本更強調個人的圓滿。",
+    "image": "/cards/19-sun.jpg",
+    "thumb": "/cards/thumbs/19-sun.jpg"
+  },
+  {
+    "slug": "20-judgement",
+    "name": "審判",
+    "enName": "Judgement",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 20,
+    "element": "火",
+    "astro": "冥王星",
+    "description": "天使加百列吹響號角，死者從棺木中復活。這張牌代表靈魂的覺醒與召喚——你被要求審視過去，做出清算，然後以全新的姿態重生。",
+    "upright": [
+      "重生",
+      "召喚",
+      "覺醒",
+      "清算",
+      "原諒"
+    ],
+    "enUpright": [
+      "rebirth",
+      "a calling",
+      "awakening",
+      "reckoning",
+      "forgiveness"
+    ],
+    "reversed": [
+      "自我懷疑",
+      "拒絕召喚",
+      "逃避",
+      "後悔"
+    ],
+    "enReversed": [
+      "self-doubt",
+      "refusing the call",
+      "avoidance",
+      "regret"
+    ],
+    "explicit": "天使加百列在雲中吹號角，號角發出金色十字。地面有三口棺木，裡面的人伸出手。一位老人、一位年輕人、一位小孩。遠方有雪山與海。",
+    "symbolism": "號角代表神聖的召喚——覺醒的時刻；金色十字代表靈性的重生；三口棺木代表過去的死結——身、心、靈的三層埋葬；棺中三人代表家庭三世代——老人的智慧、青年的力量、小孩的純真；雪山水海代表物質與情感的淨化；裸體代表真相的顯露。",
+    "history": "審判對應希伯來字母 Shin（齒），與冥王星關聯。原型是聖經中的最後審判——天使吹號、死者復活，也是埃及神話中的奧西里斯復活。在金色黎明體系中代表「靈性的火」——不是毀滅而是淨化。偉特將其命名為「Judgement」而非「The Last Judgement」，強調這是個人的覺醒而非世界末日。棺中三人的設計暗示——重生涵蓋所有世代與所有層面。",
+    "image": "/cards/20-judgement.jpg",
+    "thumb": "/cards/thumbs/20-judgement.jpg"
+  },
+  {
+    "slug": "21-world",
+    "name": "世界",
+    "enName": "The World",
+    "arcana": "major",
+    "group": "大阿爾克那",
+    "number": 21,
+    "element": "土",
+    "astro": "土星",
+    "description": "裸體女子在桂冠花環中跳舞，四角有天使、鷹、牛、獅。她手持雙杖，象徵陰陽平衡。這張牌代表愚者旅程的終點——完成、圓滿與整合，一個循環的完美結束。",
+    "upright": [
+      "完成",
+      "圓滿",
+      "成就",
+      "整合",
+      "旅程終點"
+    ],
+    "enUpright": [
+      "completion",
+      "wholeness",
+      "achievement",
+      "integration",
+      "journey's end"
+    ],
+    "reversed": [
+      "未完成",
+      "停滯",
+      "缺乏圓滿",
+      "捷徑"
+    ],
+    "enReversed": [
+      "unfinished business",
+      "stagnation",
+      "lack of closure",
+      "shortcuts"
+    ],
+    "explicit": "裸體女子在桂冠花環中跳舞，手持雙杖。四角有天使、鷹、牛、獅四活物。花環以紅色綢帶纏繞。",
+    "symbolism": "桂冠花環代表勝利與完成；紅色綢帶以無限符號纏繞，代表永恆的循環；雙杖代表陰陽的平衡——魔術師的權杖與女祭司的智慧統合；四活物代表四元素與四福音——宇宙的完整見證；裸體代表真相的完全展現；跳舞的姿態代表動態的圓滿——完成不是靜止而是持續的流動。",
+    "history": "世界對應希伯來字母 Tav（十字），與土星關聯。原型是希臘神話中的「幸運之輪」——命運之輪的完成，也是但丁《神曲》中到達天堂的境界。在金色黎明體系中代表「王國」——物質世界的神聖化。偉特的設計明顯參考了四活物的異象（以西結書），將愚者旅程的終點設計為一個完整的圓——既是結束也是開始，呼應愚者的無限循環。",
+    "image": "/cards/21-world.jpg",
+    "thumb": "/cards/thumbs/21-world.jpg"
+  },
+  {
+    "slug": "cups-01",
+    "name": "聖杯一",
+    "enName": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 1,
+    "rankCn": "一",
+    "group": "聖杯（水）",
+    "description": "一隻手從雲中伸出，托著滿溢的聖杯，鴿子銜著聖餅飛入杯中。杯下是蓮花盛開的水面。這張牌代表情感的新開始——愛、喜悅與靈性的豐盈。",
+    "upright": [
+      "新感情",
+      "愛",
+      "直覺",
+      "靈感",
+      "豐盈"
+    ],
+    "enUpright": [
+      "new feelings",
+      "love",
+      "intuition",
+      "inspiration",
+      "overflow"
+    ],
+    "reversed": [
+      "情感空虛",
+      "壓抑",
+      "失戀",
+      "創意枯竭"
+    ],
+    "enReversed": [
+      "emotional emptiness",
+      "repression",
+      "heartbreak",
+      "creative block"
+    ],
+    "explicit": "一隻手從雲中伸出，托著滿溢的聖杯。鴿子銜著圓餅飛入杯中。杯下水面有蓮花盛開。",
+    "symbolism": "滿溢的杯子代表情感與靈性的豐盈；鴿子是聖靈的象徵，銜著圓餅代表聖餐——愛的滋養；蓮花代表在情感深處綻放的純淨；水代表潛意識與直覺；W 字形的水流代表生命之水。",
+    "history": "聖杯一對應卡巴拉中的 Kether（王冠）在 Atziluth（火之界）的表現，是聖杯牌組的種子。聖杯的元素是水，對應情感、直覺與心靈。在中世紀煉金術中，杯子代表容器——接收神聖能量的器皿。偉特將鴿子與聖餅加入，明確連結基督教的聖餐意象。",
+    "image": "/cards/cups-01.jpg",
+    "thumb": "/cards/thumbs/cups-01.jpg"
+  },
+  {
+    "slug": "cups-02",
+    "name": "聖杯二",
+    "enName": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 2,
+    "rankCn": "二",
+    "group": "聖杯（水）",
+    "description": "男女各持一杯，互相凝視。上方是獅頭雙蛇杖，象徵療癒與平衡。這張牌代表兩人之間的連結——愛情、友誼或合作關係的建立。",
+    "upright": [
+      "結合",
+      "夥伴關係",
+      "互相吸引",
+      "和諧"
+    ],
+    "enUpright": [
+      "union",
+      "partnership",
+      "mutual attraction",
+      "harmony"
+    ],
+    "reversed": [
+      "分手",
+      "不平衡",
+      "信任破裂",
+      "單戀"
+    ],
+    "enReversed": [
+      "break-up",
+      "imbalance",
+      "broken trust",
+      "unrequited love"
+    ],
+    "explicit": "男女各持一杯，互相凝視。上方有獅頭雙蛇杖。背景有村莊與小屋。",
+    "symbolism": "兩杯等高代表平等的结合；獅頭雙蛇杖是 Hermes 的 cadeuceus，代表療癒與平衡——商神杖；男女之間有空間，暗示關係需要呼吸；村莊代表社會——關係不是在真空中而是嵌入社會脈絡。",
+    "history": "聖杯二在金色黎明體系中對應「和諧」。獅頭雙蛇杖來自希臘神話中的 Hermes——使者與醫神，象徵兩極的調和。偉特在這張牌中明顯使用了婚禮意象——兩人交換誓言的姿態，但沒有牧師在場，暗示這是靈魂層面的契約而非社會制度。",
+    "image": "/cards/cups-02.jpg",
+    "thumb": "/cards/thumbs/cups-02.jpg"
+  },
+  {
+    "slug": "cups-03",
+    "name": "聖杯三",
+    "enName": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 3,
+    "rankCn": "三",
+    "group": "聖杯（水）",
+    "description": "三位女子高舉聖杯，在豐收的田野中跳舞慶祝。這張牌代表友誼、歡樂與感恩——與親友分享生命中的美好時刻。",
+    "upright": [
+      "慶祝",
+      "友誼",
+      "歡樂",
+      "聚會",
+      "分享"
+    ],
+    "enUpright": [
+      "celebration",
+      "friendship",
+      "joy",
+      "gathering",
+      "sharing"
+    ],
+    "reversed": [
+      "過度放縱",
+      "八卦",
+      "孤立",
+      "虛假的友誼"
+    ],
+    "enReversed": [
+      "overindulgence",
+      "gossip",
+      "isolation",
+      "false friends"
+    ],
+    "explicit": "三位女子在豐收的田野中跳舞，高舉聖杯。地上有南瓜與葡萄藤。",
+    "symbolism": "三角形是最穩定的結構——三人關係的和諧；田野中的豐收代表慶祝的物質基礎；聖杯高舉代表共享的喜悅；不同顏色的衣物代表個體差異中的和諧；沒有男性在場，暗示純粹的女性情誼。",
+    "history": "聖杯三在金色黎明體系中對應「豐盛」。三女神的原型可追溯至希臘神話中的美惠三女神（Charites）——Aglaia（光輝）、Euphrosyne（歡樂）、Thalia（豐盛）。偉特將其設計為慶祝場景，強調友誼的純粹快樂而非戀愛的佔有。",
+    "image": "/cards/cups-03.jpg",
+    "thumb": "/cards/thumbs/cups-03.jpg"
+  },
+  {
+    "slug": "cups-04",
+    "name": "聖杯四",
+    "enName": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 4,
+    "rankCn": "四",
+    "group": "聖杯（水）",
+    "description": "男子坐在樹下，雙手交叉，對面前的三個聖杯視而不見。雲中伸出的手遞來第四個杯子。這張牌代表對現狀的不滿與倦怠，忽略了眼前的機會。",
+    "upright": [
+      "沉思",
+      "不滿",
+      "冷漠",
+      "重新評估"
+    ],
+    "enUpright": [
+      "contemplation",
+      "discontent",
+      "apathy",
+      "reappraisal"
+    ],
+    "reversed": [
+      "覺醒",
+      "接受",
+      "新動力",
+      "放下過去"
+    ],
+    "enReversed": [
+      "awakening",
+      "acceptance",
+      "new motivation",
+      "letting the past go"
+    ],
+    "explicit": "男子坐在樹下，雙臂交叉，面前有三個聖杯。雲中伸出一隻手遞來第四個杯子。他視而不見。",
+    "symbolism": "交叉的雙臂代表自我封閉；三杯代表已有的情感資源；第四杯來自雲中——靈性或意外的機會，但他不看；坐姿代表停滯；大樹代表生命，但他背對著它；山背景暗示他身處高處但孤獨。",
+    "history": "聖杯四在金色黎明體系中對應「混合」——不滿足的狀態。雲中遞杯的意象來自聖杯一的變奏——同樣的神聖恩賜，但在這裡被忽視。偉特將其設計為冥想或冷漠的姿態，暗示倦怠——不是沒有機會，而是心態關閉。",
+    "image": "/cards/cups-04.jpg",
+    "thumb": "/cards/thumbs/cups-04.jpg"
+  },
+  {
+    "slug": "cups-05",
+    "name": "聖杯五",
+    "enName": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 5,
+    "rankCn": "五",
+    "group": "聖杯（水）",
+    "description": "黑袍男子低頭看著地上翻倒的三個聖杯，身後還有兩個立著的杯子他沒看見。這張牌代表沉浸在失落中，忽略了仍然擁有的美好。",
+    "upright": [
+      "悲傷",
+      "失落",
+      "後悔",
+      "專注於失去"
+    ],
+    "enUpright": [
+      "grief",
+      "loss",
+      "regret",
+      "fixating on what is gone"
+    ],
+    "reversed": [
+      "接受",
+      "療癒",
+      "向前看",
+      "希望"
+    ],
+    "enReversed": [
+      "acceptance",
+      "healing",
+      "looking ahead",
+      "hope"
+    ],
+    "explicit": "黑袍男子低頭看著地上翻倒的三個聖杯。身後還有兩個立著的杯子。橋上有城堡，河中流水。",
+    "symbolism": "翻倒的三杯代表失去的關係或機會；未倒的兩杯代表仍然擁有但被忽視的；黑袍代表哀傷；橋代表通往他人的路——只要轉身就能走過去；城堡代表家——希望就在身後；流水代表時間的流逝，不會因悲傷而停止。",
+    "history": "聖杯五在金色黎明體系中對應「失去中的獲得」。偉特的設計有一個著名的視覺 trick——觀者第一眼看到的是倒下的杯子，但仔細看會發現還有兩杯立著。這個設計直接啟發了後來心理學中的「損失厭惡」概念——人們總是專注於失去而忽略擁有。",
+    "image": "/cards/cups-05.jpg",
+    "thumb": "/cards/thumbs/cups-05.jpg"
+  },
+  {
+    "slug": "cups-06",
+    "name": "聖杯六",
+    "enName": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 6,
+    "rankCn": "六",
+    "group": "聖杯（水）",
+    "description": "一個小孩將裝滿花的杯子遞給另一個小孩。背景是寧靜的村莊。這張牌代表懷舊與純真——回憶過去的美好，或收到意想不到的禮物。",
+    "upright": [
+      "回憶",
+      "懷舊",
+      "童年",
+      "純真",
+      "給予"
+    ],
+    "enUpright": [
+      "memory",
+      "nostalgia",
+      "childhood",
+      "innocence",
+      "giving"
+    ],
+    "reversed": [
+      "沉溺過去",
+      "無法前進",
+      "幼稚",
+      "停滯"
+    ],
+    "enReversed": [
+      "stuck in the past",
+      "unable to move on",
+      "immaturity",
+      "stagnation"
+    ],
+    "explicit": "小孩將裝滿花的杯子遞給另一個小孩。背景是寧靜的村莊與花園。有人持杖站立。",
+    "symbolism": "裝花的杯子代表以純真給予——不是物質而是美好；小孩之間的交換代表童年友誼的純粹；村莊代表安全與懷舊；花代表短暫的美——童年的易逝；持杖者可能是守護者或成年的自己回望。",
+    "history": "聖杯六在金色黎明體系中對應「快樂」。偉特將其設計為明顯的懷舊場景——村莊的寧靜、兒童的純真，是整副牌中最溫柔的牌之一。這張牌常被解讀為「故鄉」或「初戀」的象徵，也與戰後回歸家園的情感共鳴——偉特經歷了一次世界大戰，這張牌可能是對逝去和平時代的追憶。",
+    "image": "/cards/cups-06.jpg",
+    "thumb": "/cards/thumbs/cups-06.jpg"
+  },
+  {
+    "slug": "cups-07",
+    "name": "聖杯七",
+    "enName": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 7,
+    "rankCn": "七",
+    "group": "聖杯（水）",
+    "description": "七個聖杯漂浮在雲中，每個杯子裡裝著不同的幻象——城堡、珠寶、桂冠、龍、蛇等。這張牌代表過多的選擇與幻想，需要腳踏實地做出決定。",
+    "upright": [
+      "幻想",
+      "選擇",
+      "白日夢",
+      "慾望",
+      "迷惑"
+    ],
+    "enUpright": [
+      "fantasy",
+      "options",
+      "daydreams",
+      "desire",
+      "confusion"
+    ],
+    "reversed": [
+      "清晰",
+      "決斷",
+      "現實主義",
+      "專注"
+    ],
+    "enReversed": [
+      "clarity",
+      "decisiveness",
+      "realism",
+      "focus"
+    ],
+    "explicit": "七個聖杯漂浮在雲中，每個裝著不同的幻象：城堡、珠寶、桂冠、龍、人頭、蛇、蓋布之物。",
+    "symbolism": "七杯代表過多的選擇——每個都是幻象；城堡代表權力慾望；珠寶代表物質貪婪；桂冠代表虛榮；龍代表恐懼與征服慾；人頭代表自我；蛇代表知識與誘惑；蓋布之物代表未知——也許是死亡；雲代表不切實際；陰影中的人代表做白日夢者。",
+    "history": "聖杯七在金色黎明體系中對應「不明的成功」。七個幻象對應七宗罪或七大美德——中世紀道德劇的遺產。偉特將其設計為誘惑的展示——不是真實的選擇而是慾望的投射。這張牌與聖杯四形成對比：四號是冷漠，七號是過度幻想。",
+    "image": "/cards/cups-07.jpg",
+    "thumb": "/cards/thumbs/cups-07.jpg"
+  },
+  {
+    "slug": "cups-08",
+    "name": "聖杯八",
+    "enName": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 8,
+    "rankCn": "八",
+    "group": "聖杯（水）",
+    "description": "男子在月夜下轉身離開堆疊整齊的八個聖杯，拄著拐杖走向荒蕪的山脈。這張牌代表放下已經不再滿足的事物，追尋更高層次的意義。",
+    "upright": [
+      "離開",
+      "追尋",
+      "放下",
+      "走向未知"
+    ],
+    "enUpright": [
+      "walking away",
+      "seeking",
+      "letting go",
+      "into the unknown"
+    ],
+    "reversed": [
+      "逃避",
+      "害怕改變",
+      "停滯",
+      "勉強維持"
+    ],
+    "enReversed": [
+      "avoidance",
+      "fear of change",
+      "stagnation",
+      "barely holding on"
+    ],
+    "explicit": "男子在月夜下轉身離開整齊堆疊的八個聖杯，拄杖走向遠方山脈。",
+    "symbolism": "整齊堆疊的杯子代表已經完成但不再滿足的情感結構；轉身代表主動放棄；拐杖代表旅途的工具——隱者的延伸；月代表直覺的指引；山脈代表更高的目標；他走在路上，不是逃亡而是追尋。",
+    "history": "聖杯八在金色黎明體系中對應「放棄中的成功」。這張牌與隱者牌有視覺關聯——同樣的杖、同樣的山、同樣的孤獨前行。偉特將其設計為情感層面的隱者之旅——不是物質上的捨棄，而是對不再有意義的情感結構說再見。月的存在暗示這是直覺而非理性的決定。",
+    "image": "/cards/cups-08.jpg",
+    "thumb": "/cards/thumbs/cups-08.jpg"
+  },
+  {
+    "slug": "cups-09",
+    "name": "聖杯九",
+    "enName": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 9,
+    "rankCn": "九",
+    "group": "聖杯（水）",
+    "description": "男子雙手交叉坐在九個整齊排列的聖杯前，面帶滿足的微笑。這張牌被稱為「願望牌」，代表心願達成、情感滿足與幸福。",
+    "upright": [
+      "願望成真",
+      "滿足",
+      "幸福",
+      "自滿"
+    ],
+    "enUpright": [
+      "a wish granted",
+      "contentment",
+      "happiness",
+      "complacency"
+    ],
+    "reversed": [
+      "不滿",
+      "貪婪",
+      "表面幸福",
+      "空虛"
+    ],
+    "enReversed": [
+      "dissatisfaction",
+      "greed",
+      "surface happiness",
+      "emptiness"
+    ],
+    "explicit": "男子雙手交叉坐在整齊排列的九個聖杯前，面帶滿足的微笑。",
+    "symbolism": "九杯弧形排列代表情感的圓滿；交叉的雙手代表滿足與收穫；坐姿代表安定——不需要再追尋；微笑代表自我滿足——但也可能是自滿；沒有其他人在場，暗示這是個人的幸福感。",
+    "history": "聖杯九在金色黎明體系中對應「確立的成功」。這張牌被稱為「願望牌」（the Wish Card）——在占卜中代表心願達成。偉特將其設計為個人滿足的極致——但這種滿足是獨享的，沒有分享的對象，暗示幸福的另一面可能是孤獨。",
+    "image": "/cards/cups-09.jpg",
+    "thumb": "/cards/thumbs/cups-09.jpg"
+  },
+  {
+    "slug": "cups-10",
+    "name": "聖杯十",
+    "enName": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 10,
+    "rankCn": "十",
+    "group": "聖杯（水）",
+    "description": "一對夫妻仰望天空中的彩虹與十個聖杯，兩個孩子在旁跳舞。這張牌代表終極的情感圓滿——家庭和樂、歸屬感與幸福的人生。",
+    "upright": [
+      "家庭幸福",
+      "圓滿",
+      "和諧",
+      "歸屬"
+    ],
+    "enUpright": [
+      "family happiness",
+      "fulfillment",
+      "harmony",
+      "belonging"
+    ],
+    "reversed": [
+      "家庭失和",
+      "破碎的夢",
+      "疏離"
+    ],
+    "enReversed": [
+      "family discord",
+      "broken dreams",
+      "estrangement"
+    ],
+    "explicit": "一對夫妻擁抱，仰望天空中的彩虹與十個聖杯。兩個孩子在旁邊跳舞。背景有房屋與綠地。",
+    "symbolism": "彩虹代表神的承諾——風暴後的平靜，也代表情感的完整光譜；十杯代表情感的圓滿數字；夫妻擁抱代表愛的實現；孩子跳舞代表未來的希望；房屋代表家——安全感與歸屬；綠地代表自然的豐饒。",
+    "history": "聖杯十在金色黎明體系中對應「圓滿的愛」。彩虹的意象來自聖經中挪亞方舟後的承諾——上帝不再以洪水毀滅世界。偉特將其設計為「從此幸福快樂」的場景——整副牌中最接近童話結局的牌。但彩虹是短暫的，暗示圓滿也需要珍惜。",
+    "image": "/cards/cups-10.jpg",
+    "thumb": "/cards/thumbs/cups-10.jpg"
+  },
+  {
+    "slug": "cups-11",
+    "name": "聖杯侍者",
+    "enName": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 11,
+    "rankCn": "侍者",
+    "group": "聖杯（水）",
+    "description": "年輕侍者手持聖杯，一條魚從杯中探出頭來。他代表創意的萌芽、浪漫的訊息，以及對情感世界的好奇與探索。",
+    "upright": [
+      "創意",
+      "直覺",
+      "浪漫",
+      "訊息",
+      "好奇"
+    ],
+    "enUpright": [
+      "creativity",
+      "intuition",
+      "romance",
+      "a message",
+      "curiosity"
+    ],
+    "reversed": [
+      "情緒化",
+      "不成熟",
+      "幻想破滅",
+      "逃避"
+    ],
+    "enReversed": [
+      "moodiness",
+      "immaturity",
+      "disillusionment",
+      "escapism"
+    ],
+    "explicit": "年輕侍者手持聖杯，一條魚從杯中探出頭來。他站在海邊，衣著華麗。",
+    "symbolism": "杯中的魚代表潛意識的訊息浮現——直覺的禮物；海代表無限的情感潛能；年輕代表創意的萌芽；華麗衣著代表對美的敏感；他看著魚，暗示對內在世界的好奇。",
+    "history": "聖杯侍者在金色黎明體系中對應「土之星」——元素中的土與水結合。侍者代表牌組中的開始——一個訊息、一個靈感的火花。魚從杯中探出的意象是偉特的原創——在早期塔羅中，聖杯侍者只是手持杯子的少年。魚的加入暗示了更深層的潛意識訊息。",
+    "image": "/cards/cups-11.jpg",
+    "thumb": "/cards/thumbs/cups-11.jpg"
+  },
+  {
+    "slug": "cups-12",
+    "name": "聖杯騎士",
+    "enName": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 12,
+    "rankCn": "騎士",
+    "group": "聖杯（水）",
+    "description": "騎士騎白馬，手持聖杯，從容前進。他代表浪漫的追求者——帶著理想與情感前進，但也可能過於夢幻而不切實際。",
+    "upright": [
+      "浪漫",
+      "魅力",
+      "追求理想",
+      "藝術家"
+    ],
+    "enUpright": [
+      "romance",
+      "charm",
+      "chasing an ideal",
+      "the artist"
+    ],
+    "reversed": [
+      "情緒化",
+      "不切實際",
+      "欺騙",
+      "空想"
+    ],
+    "enReversed": [
+      "moodiness",
+      "impracticality",
+      "deception",
+      "wishful thinking"
+    ],
+    "explicit": "騎士騎白馬，手持聖杯，從容前進。他的姿態優雅，像是在遊行而非衝鋒。",
+    "symbolism": "白馬代表純淨的動力；聖杯代表情感的追求；優雅的姿態代表浪漫主義——追求美與理想；翅膀裝飾代表想像力的飛翔；不急不緩的速度代表這不是行動而是追尋。",
+    "history": "聖杯騎士在金色黎明體系中對應「火之水」——行動中的情感。原型是亞瑟王傳說中的加拉哈德——追求聖杯的純潔騎士。偉特將其設計為浪漫詩人的形象——不是戰士而是追夢者。這張牌常被解讀為「白馬王子」的原型，但也暗示理想主義可能與現實脫節。",
+    "image": "/cards/cups-12.jpg",
+    "thumb": "/cards/thumbs/cups-12.jpg"
+  },
+  {
+    "slug": "cups-13",
+    "name": "聖杯王后",
+    "enName": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 13,
+    "rankCn": "王后",
+    "group": "聖杯（水）",
+    "description": "王后坐在海邊的寶座上，凝視著手中精緻的聖杯。她代表情感的深度與同理心——以直覺與愛來理解世界，是最具療癒力的宮廷牌。",
+    "upright": [
+      "同理心",
+      "直覺",
+      "關懷",
+      "情感成熟"
+    ],
+    "enUpright": [
+      "empathy",
+      "intuition",
+      "care",
+      "emotional maturity"
+    ],
+    "reversed": [
+      "情緒依賴",
+      "過度敏感",
+      "操縱",
+      "壓抑"
+    ],
+    "enReversed": [
+      "emotional dependence",
+      "over-sensitivity",
+      "manipulation",
+      "repression"
+    ],
+    "explicit": "王后坐在海邊的寶座上，凝視手中精緻的聖杯。寶座上有貝殼與人魚裝飾。腳下是海浪與鵝卵石。",
+    "symbolism": "海邊的寶座代表她守護情感的邊界——陸地與海洋的交會；貝殼裝飾代表情感的外殼——保護內在的柔軟；精緻的聖杯代表她不是掌控而是珍惜；凝視而非舉起，暗示她理解情感而非使用情感；鵝卵石代表被時間磨圓的經歷。",
+    "history": "聖杯王后在金色黎明體系中對應「水之水」——純粹的情感。原型是希臘神話中的忒提斯（Thetis）——海洋女神，阿基里斯的母親。偉特將其設計為最溫柔但最有深度的宮廷牌——她的力量不在行動而在理解與接納。與寶劍王后的鋒利形成極端對比。",
+    "image": "/cards/cups-13.jpg",
+    "thumb": "/cards/thumbs/cups-13.jpg"
+  },
+  {
+    "slug": "cups-14",
+    "name": "聖杯國王",
+    "enName": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "suitCn": "聖杯",
+    "element": "水",
+    "rank": 14,
+    "rankCn": "國王",
+    "group": "聖杯（水）",
+    "description": "國王坐在海中的寶座上，手持聖杯與權杖。他代表情感的成熟掌控——能夠在情緒的波濤中保持冷靜，以智慧與同理心領導他人。",
+    "upright": [
+      "情感掌控",
+      "智慧",
+      "冷靜",
+      "外交"
+    ],
+    "enUpright": [
+      "emotional mastery",
+      "wisdom",
+      "composure",
+      "diplomacy"
+    ],
+    "reversed": [
+      "情緒失控",
+      "操縱",
+      "冷漠",
+      "壓抑"
+    ],
+    "enReversed": [
+      "emotional volatility",
+      "manipulation",
+      "coldness",
+      "repression"
+    ],
+    "explicit": "國王坐在海中的寶座上，手持聖杯與權杖。海浪在腳下翻滾，但他的姿態穩定。有帆船與海豚在背景中。",
+    "symbolism": "海上寶座代表他在情感波濤中保持穩定；聖杯與權杖同持代表情感與行動的統合；翻滾的浪代表情感的衝擊但他不受影響；帆船代表遠方的旅程；海豚代表靈性與情感的引導；腳不入水代表他理解但不被淹沒。",
+    "history": "聖杯國王在金色黎明體系中對應「風之水」——理智中的情感。原型是亞瑟王傳說中的佩里諾爾王——溫柔的聖杯守護者。偉特將其設計為情感成熟的最高境界——不是壓抑情感而是掌控它。與聖杯騎士的浪漫追尋不同，國王已經找到平衡。",
+    "image": "/cards/cups-14.jpg",
+    "thumb": "/cards/thumbs/cups-14.jpg"
+  },
+  {
+    "slug": "pentacles-01",
+    "name": "錢幣一",
+    "enName": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 1,
+    "rankCn": "一",
+    "group": "錢幣（土）",
+    "description": "一隻手從雲中伸出，托著一枚大金幣。下方是繁花盛開的花園。這張牌代表物質世界的新開始——財富、機會與穩固的基礎。",
+    "upright": [
+      "新機會",
+      "財富",
+      "繁榮",
+      "務實",
+      "根基"
+    ],
+    "enUpright": [
+      "a new opportunity",
+      "wealth",
+      "prosperity",
+      "practicality",
+      "foundations"
+    ],
+    "reversed": [
+      "錯失機會",
+      "財務問題",
+      "貪婪",
+      "不穩"
+    ],
+    "enReversed": [
+      "missed opportunity",
+      "money trouble",
+      "greed",
+      "instability"
+    ],
+    "explicit": "一隻手從雲中伸出，托著一枚大金幣。下方是繁花盛開的花園，有山有溪。",
+    "symbolism": "金幣代表物質的種子——所有可能性的基礎；花園代表已被開墾的環境——機會不是在荒野而是在文明中；山代表穩固的後盾；溪代表持續的資源流動；林蔭代表庇護與成長的空間。",
+    "history": "錢幣一在卡巴拉中對應 Kether 在 Assiah（土之界）的表現。在金色黎明體系中代表「物質的基礎」——所有具體實現的起點。偉特將其設計為花園場景而非單純的金幣，暗示物質機會需要環境的配合——不是從天而降而是在已耕耘的土地上萌芽。",
+    "image": "/cards/pentacles-01.jpg",
+    "thumb": "/cards/thumbs/pentacles-01.jpg"
+  },
+  {
+    "slug": "pentacles-02",
+    "name": "錢幣二",
+    "enName": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 2,
+    "rankCn": "二",
+    "group": "錢幣（土）",
+    "description": "小丑般的男子雙手各持一枚錢幣，以無限符號的繩索連結，背後是起伏的海浪。這張牌代表在變動中保持平衡——同時處理多項事務的能力。",
+    "upright": [
+      "平衡",
+      "彈性",
+      "多工",
+      "適應",
+      "變通"
+    ],
+    "enUpright": [
+      "balance",
+      "flexibility",
+      "juggling",
+      "adaptation",
+      "improvisation"
+    ],
+    "reversed": [
+      "失衡",
+      "混亂",
+      "過度負荷",
+      "財務困難"
+    ],
+    "enReversed": [
+      "imbalance",
+      "disorder",
+      "overload",
+      "financial strain"
+    ],
+    "explicit": "小丑般的男子雙手各持一枚錢幣，以無限符號的繩索連結。背後是起伏的海浪。",
+    "symbolism": "無限符號代表永恆的循環——資源的流動與平衡；兩枚錢幣代表兩種選擇或資源的平衡；海浪代表外在環境的變動；小丑的衣著代表輕鬆應對——不必太嚴肅；他跳舞的姿態代表在變動中保持靈活。",
+    "history": "錢幣二在金色黎明體系中對應「和平變動中的和諧」。無限符號的繩索是偉特的原創——在馬賽塔羅中只是雜耍者拋接兩枚硬幣。偉特加入了海浪背景，將單純的技藝表演提升為「在變動的世界中保持平衡」的隱喻。",
+    "image": "/cards/pentacles-02.jpg",
+    "thumb": "/cards/thumbs/pentacles-02.jpg"
+  },
+  {
+    "slug": "pentacles-03",
+    "name": "錢幣三",
+    "enName": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 3,
+    "rankCn": "三",
+    "group": "錢幣（土）",
+    "description": "雕刻師在教堂中工作，兩位贊助者手持設計圖與他討論。這張牌代表團隊合作與專業技藝——透過規劃與協作達成卓越的成果。",
+    "upright": [
+      "團隊合作",
+      "技藝",
+      "規劃",
+      "專業",
+      "學習"
+    ],
+    "enUpright": [
+      "teamwork",
+      "craftsmanship",
+      "planning",
+      "professionalism",
+      "learning"
+    ],
+    "reversed": [
+      "缺乏合作",
+      "品質低落",
+      "不專業",
+      "混亂"
+    ],
+    "enReversed": [
+      "poor cooperation",
+      "low quality",
+      "unprofessionalism",
+      "disorder"
+    ],
+    "explicit": "雕刻師在教堂中工作，兩位贊助者手持設計圖與他討論。上方有拱頂與窗。",
+    "symbolism": "三人代表技師、構想者、贊助者——創造的三個角色缺一不可；教堂代表精神與物質的結合——技藝服務於更高的目標；設計圖代表計劃的重要性；拱頂代表結構與秩序；窗代表靈感的來源。",
+    "history": "錢幣三在金色黎明體系中對應「物質的工作」。偉特將其設計為中世紀大教堂建造的場景——這是行會（guild）制度的黃金時代，技藝與精神目標合一。這張牌常被解讀為團隊合作，但更深层是「成為工匠」的隱喻——以專業技藝服務於比自己更大的目標。",
+    "image": "/cards/pentacles-03.jpg",
+    "thumb": "/cards/thumbs/pentacles-03.jpg"
+  },
+  {
+    "slug": "pentacles-04",
+    "name": "錢幣四",
+    "enName": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 4,
+    "rankCn": "四",
+    "group": "錢幣（土）",
+    "description": "男子緊抱一枚錢幣，頭頂一枚，腳踏兩枚。他代表對物質的緊抓不放——可能是節儉的美德，也可能是對失去的恐懼。",
+    "upright": [
+      "守財",
+      "控制",
+      "安全感",
+      "節儉",
+      "固執"
+    ],
+    "enUpright": [
+      "holding on",
+      "control",
+      "security",
+      "thrift",
+      "stubbornness"
+    ],
+    "reversed": [
+      "揮霍",
+      "放手",
+      "慷慨",
+      "財務不穩"
+    ],
+    "enReversed": [
+      "overspending",
+      "letting go",
+      "generosity",
+      "financial instability"
+    ],
+    "explicit": "男子緊抱一枚錢幣，頭頂一枚，腳踏兩枚。他坐在城牆上，背景是城市。",
+    "symbolism": "四枚錢幣各據一方——頭頂、懷中、腳下——代表對物質的全面控制；坐姿代表停滯——緊抓不放就無法前進；城牆代表防禦心態；城市背景代表他離社會不遠但選擇隔離；衣物上的星形暗示他本可以是開放的但選擇了封閉。",
+    "history": "錢幣四在金色黎明體系中對應「地球的力量」。偉特將其設計為守財奴的形象——但在早期塔羅中這張牌只是一個手持硬幣的人。偉特加入了「四方位各持一枚」的設計，暗示控制欲的極致——不僅持有，還要確保沒有人能拿走。這張牌與佛教中的「執著」概念呼應——痛苦來自於緊抓。",
+    "image": "/cards/pentacles-04.jpg",
+    "thumb": "/cards/thumbs/pentacles-04.jpg"
+  },
+  {
+    "slug": "pentacles-05",
+    "name": "錢幣五",
+    "enName": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 5,
+    "rankCn": "五",
+    "group": "錢幣（土）",
+    "description": "兩個衣衫襤褸的人在雪中行走，經過一扇明亮的教堂窗戶卻沒有進去。這張牌代表物質或精神上的匱乏——但幫助其實就在身邊，只是你沒看見。",
+    "upright": [
+      "貧困",
+      "孤立",
+      "困境",
+      "信仰考驗"
+    ],
+    "enUpright": [
+      "hardship",
+      "exclusion",
+      "adversity",
+      "a test of faith"
+    ],
+    "reversed": [
+      "復原",
+      "找到幫助",
+      "希望",
+      "轉機"
+    ],
+    "enReversed": [
+      "recovery",
+      "finding help",
+      "hope",
+      "a turning point"
+    ],
+    "explicit": "兩個衣衫襤褸的人在雪中行走，經過一扇明亮的教堂彩色玻璃窗。一人拄杖，一人包著嬰兒。",
+    "symbolism": "雪代表寒冷與困境；教堂的彩色玻璃代表溫暖與信仰——但兩人沒有進去；拄杖者代表身體的脆弱；嬰兒代表未來的希望也是負擔；教堂窗上有五個錢幣圖案——暗示幫助就在眼前但被忽視；鐘代表召喚——你沒有回應。",
+    "history": "錢幣五在金色黎明體系中對應「物質的麻煩」。偉特將其設計為最令人不安的牌之一——貧困者在教堂外凍餒。彩色玻璃窗上的五個錢幣是巧妙的設計——幫助已經在那裡，但人們出於恐懼或驕傲而不進入。這張牌與聖經中「拉撒路與財主」的比喻呼應——窮人就在門外。",
+    "image": "/cards/pentacles-05.jpg",
+    "thumb": "/cards/thumbs/pentacles-05.jpg"
+  },
+  {
+    "slug": "pentacles-06",
+    "name": "錢幣六",
+    "enName": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 6,
+    "rankCn": "六",
+    "group": "錢幣（土）",
+    "description": "富商手持天秤，將錢幣分給兩位跪著的乞丐。這張牌代表給予與接受的平衡——慈善、分享資源，或是在需要時接受幫助。",
+    "upright": [
+      "給予",
+      "接受",
+      "慈善",
+      "平衡",
+      "分享"
+    ],
+    "enUpright": [
+      "giving",
+      "receiving",
+      "charity",
+      "balance",
+      "sharing"
+    ],
+    "reversed": [
+      "施捨",
+      "不平等",
+      "貪婪",
+      "債務"
+    ],
+    "enReversed": [
+      "strings attached",
+      "inequality",
+      "greed",
+      "debt"
+    ],
+    "explicit": "富商手持天秤，將錢幣分給兩位跪著的乞丐。背景有城市建築。",
+    "symbolism": "天秤代表公平的衡量——給予不是隨意的而是經過計算；富商的紅色長袍代表行動的溫暖；跪著的乞丐代表接受幫助的卑微姿態；兩人不同狀態——一個拄杖（身體障礙），一個披頭巾（可能是精神困境）；天秤上刻有蛇，暗示給予需要智慧。",
+    "history": "錢幣六在金色黎明體系中對應「物質的成功」。偉特將其設計為慈善的場景——但慈善是否真正公平？天秤暗示了一種計算——給予者與接受者的不對等關係。這張牌常被解為「慷慨」，但偉特的設計暗示了慈善的複雜性——施與受之間的權力動態。",
+    "image": "/cards/pentacles-06.jpg",
+    "thumb": "/cards/thumbs/pentacles-06.jpg"
+  },
+  {
+    "slug": "pentacles-07",
+    "name": "錢幣七",
+    "enName": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 7,
+    "rankCn": "七",
+    "group": "錢幣（土）",
+    "description": "男子倚著鋤頭，凝視著長滿錢幣的灌木。他代表耐心等待收成——你已經播種，現在需要時間讓它成長，不要急於收割。",
+    "upright": [
+      "耐心",
+      "等待",
+      "評估",
+      "投資",
+      "收成"
+    ],
+    "enUpright": [
+      "patience",
+      "waiting",
+      "assessment",
+      "investment",
+      "harvest"
+    ],
+    "reversed": [
+      "不耐煩",
+      "投資失敗",
+      "浪費",
+      "焦慮"
+    ],
+    "enReversed": [
+      "impatience",
+      "a failed investment",
+      "waste",
+      "anxiety"
+    ],
+    "explicit": "農夫倚著鋤頭，凝視著長滿錢幣的灌木。他看起來疲憊但若有所思。",
+    "symbolism": "鋤頭代表勞動的工具；長錢幣的灌木代表投資正在成長——但需要時間；倚著鋤頭代表等待——這不是放棄而是耐心；農夫的表情代表評估——這些努力值得嗎？遠方的山代表目標的距離。",
+    "history": "錢幣七在金色黎明體系中對應「未成功」。偉特將其設計為農夫等待收成的場景——這是農業社會最根本的隱喻：播種、等待、收成。與錢幣八的勤奮不同，七號是停下來思考的方向——不是所有努力都值得，有時需要重新評估。",
+    "image": "/cards/pentacles-07.jpg",
+    "thumb": "/cards/thumbs/pentacles-07.jpg"
+  },
+  {
+    "slug": "pentacles-08",
+    "name": "錢幣八",
+    "enName": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 8,
+    "rankCn": "八",
+    "group": "錢幣（土）",
+    "description": "工匠專注地雕刻錢幣，牆上掛著一排已完成的作品。這張牌代表專注於技藝的精進——透過不斷練習與努力，追求卓越。",
+    "upright": [
+      "勤奮",
+      "技藝",
+      "專注",
+      "學徒",
+      "精進"
+    ],
+    "enUpright": [
+      "diligence",
+      "craft",
+      "focus",
+      "apprenticeship",
+      "honing the skill"
+    ],
+    "reversed": [
+      "倦怠",
+      "缺乏動力",
+      "品質低落",
+      "敷衍"
+    ],
+    "enReversed": [
+      "burnout",
+      "low motivation",
+      "poor quality",
+      "going through the motions"
+    ],
+    "explicit": "工匠坐在長凳上，專注地雕刻錢幣。牆上掛著六枚已完成的作品。他在工作坊中。",
+    "symbolism": "專注的表情代表心流狀態——技藝與自我的合一；六枚成品代表持續的進步；工作坊代表技能的環境——師徒傳承的場所；錢幣上的星形代表每件作品都是獨立的創造；他在室內，暗示技藝需要隱蔽的培育。",
+    "history": "錢幣八在金色黎明體系中對應「精進」。偉特將其設計為學徒或工匠的場景——中世紀行會制度的核心。與錢幣七的等待不同，八號是持續的練習。這張牌是整副牌中最接近「工匠精神」（shokunin）的牌——不是為了結果而是為了過程本身的專注。",
+    "image": "/cards/pentacles-08.jpg",
+    "thumb": "/cards/thumbs/pentacles-08.jpg"
+  },
+  {
+    "slug": "pentacles-09",
+    "name": "錢幣九",
+    "enName": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 9,
+    "rankCn": "九",
+    "group": "錢幣（土）",
+    "description": "衣著華麗的女子站在葡萄園中，手上停著一隻獵鷹。她代表物質上的獨立與自足——透過自己的努力獲得舒適的生活，享受成果。",
+    "upright": [
+      "獨立",
+      "富裕",
+      "優雅",
+      "自給自足",
+      "享受"
+    ],
+    "enUpright": [
+      "independence",
+      "affluence",
+      "grace",
+      "self-sufficiency",
+      "enjoyment"
+    ],
+    "reversed": [
+      "依賴",
+      "財務問題",
+      "孤獨",
+      "炫耀"
+    ],
+    "enReversed": [
+      "dependence",
+      "money trouble",
+      "loneliness",
+      "showing off"
+    ],
+    "explicit": "衣著華麗的女子站在葡萄園中，手上停著一隻獵鷹。頭戴花環，長裙拖地。",
+    "symbolism": "葡萄園代表物質豐饒的成果——她種植的已經成長；獵鷹代表貴族運動——閒暇是成功的證明；花環代表自然的裝飾；長裙的豐富質料代表不缺物質；獵鷹停在手上代表對自然力量的掌控；城堡在背景代表安全的後盾。",
+    "history": "錢幣九在金色黎明體系中對應「確立的好運」。偉特將其設計為獨立女性的形象——她不需要伴侶，因為她自己已經創造了豐足的生活。獵鷹的意象來自中世紀貴族狩獵——只有有閒階級才能訓練獵鷹。這張牌是錢幣三（合作建造）的最終結果——獨立的豐饒。",
+    "image": "/cards/pentacles-09.jpg",
+    "thumb": "/cards/thumbs/pentacles-09.jpg"
+  },
+  {
+    "slug": "pentacles-10",
+    "name": "錢幣十",
+    "enName": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 10,
+    "rankCn": "十",
+    "group": "錢幣（土）",
+    "description": "三代同堂的富裕家族，老人坐在拱門下，兩隻白狗在旁。這張牌代表物質的終極成就——財富的傳承、家族的穩固與長久的繁榮。",
+    "upright": [
+      "財富",
+      "傳承",
+      "家族",
+      "穩定",
+      "長久"
+    ],
+    "enUpright": [
+      "wealth",
+      "legacy",
+      "family",
+      "stability",
+      "permanence"
+    ],
+    "reversed": [
+      "家族紛爭",
+      "破產",
+      "失去傳承",
+      "不穩"
+    ],
+    "enReversed": [
+      "family disputes",
+      "bankruptcy",
+      "a lost legacy",
+      "instability"
+    ],
+    "explicit": "老人坐在拱門下，兩隻白狗在旁。一對夫妻與小孩在背景。拱門上有十枚錢幣與各種符號。",
+    "symbolism": "三代同堂代表時間的延續——財富跨越世代；白狗代表忠誠與陪伴；拱門上的十枚錢幣代表物質的圓滿；各種符號代表家族的歷史與傳承；老人坐姿代表從勞動中退休——享受成果的階段；城市背景代表文明的延續。",
+    "history": "錢幣十在金色黎明體系中對應「財富」。偉特將其設計為家族傳承的場景——物質成就的終極意義不是個人享受而是代代相傳。拱門上的符號包括星象符號和卡巴拉字母，暗示真正的財富不只是金錢，還包括智慧與文化的傳承。",
+    "image": "/cards/pentacles-10.jpg",
+    "thumb": "/cards/thumbs/pentacles-10.jpg"
+  },
+  {
+    "slug": "pentacles-11",
+    "name": "錢幣侍者",
+    "enName": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 11,
+    "rankCn": "侍者",
+    "group": "錢幣（土）",
+    "description": "年輕侍者雙手捧著錢幣，專注地凝視。他代表對知識與技能的渴望——務實的學習態度，為未來打下基礎。",
+    "upright": [
+      "學習",
+      "務實",
+      "新技能",
+      "野心",
+      "踏實"
+    ],
+    "enUpright": [
+      "study",
+      "practicality",
+      "a new skill",
+      "ambition",
+      "groundedness"
+    ],
+    "reversed": [
+      "懶惰",
+      "缺乏進展",
+      "浪費",
+      "不切實際"
+    ],
+    "enReversed": [
+      "laziness",
+      "no progress",
+      "waste",
+      "impracticality"
+    ],
+    "explicit": "年輕侍者雙手捧著錢幣，專注地凝視。他站在綠色草地上，遠方有山與樹。",
+    "symbolism": "捧著錢幣代表對新技能的珍視；專注凝視代表學習的態度——認真但仍是初學者；草地代表成長的環境；山代表目標的高度；他單獨一人，暗示學習是孤獨的旅程。",
+    "history": "錢幣侍者在金色黎明體系中對應「土之土」——最物質化的起點。偉特將其設計為學徒的形象——不是天才而是願意學習的年輕人。與其他侍者不同，錢幣侍者特別強調「專注」——他不是在玩弄錢幣而是在研究它，暗示真正的學習需要認真的態度。",
+    "image": "/cards/pentacles-11.jpg",
+    "thumb": "/cards/thumbs/pentacles-11.jpg"
+  },
+  {
+    "slug": "pentacles-12",
+    "name": "錢幣騎士",
+    "enName": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 12,
+    "rankCn": "騎士",
+    "group": "錢幣（土）",
+    "description": "騎士騎在黑馬上，手持錢幣，靜止不動。他代表最踏實可靠的執行者——雖然緩慢，但每一步都穩固，絕不半途而廢。",
+    "upright": [
+      "勤奮",
+      "可靠",
+      "耐心",
+      "保守",
+      "責任"
+    ],
+    "enUpright": [
+      "diligence",
+      "reliability",
+      "patience",
+      "caution",
+      "responsibility"
+    ],
+    "reversed": [
+      "停滯",
+      "懶惰",
+      "頑固",
+      "缺乏冒險"
+    ],
+    "enReversed": [
+      "stagnation",
+      "laziness",
+      "stubbornness",
+      "no appetite for risk"
+    ],
+    "explicit": "騎士騎在黑馬上，手持錢幣，靜止不動。他穿著重型鎧甲，馬也站著不動。背景是耕過的田地。",
+    "symbolism": "靜止不動代表緩慢但可靠——這不是衝鋒而是守護；黑馬代表穩重的力量——不是速度而是耐力；重型鎧甲代表對任務的認真；耕過的田代表已準備好的土地——他已經做了基礎工作；手持錢幣但不高舉，代表務實不張揚。",
+    "history": "錢幣騎士在金色黎明體系中對應「火之土」——行動中的物質。偉特將其設計為最慢的騎士——其他騎士都在衝鋒，只有他是靜止的。這不是缺點而是美德——在物質世界中，穩定比速度更重要。這張牌常被解為「值得信賴的執行者」——他不會給你驚喜但也不會讓你失望。",
+    "image": "/cards/pentacles-12.jpg",
+    "thumb": "/cards/thumbs/pentacles-12.jpg"
+  },
+  {
+    "slug": "pentacles-13",
+    "name": "錢幣王后",
+    "enName": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 13,
+    "rankCn": "王后",
+    "group": "錢幣（土）",
+    "description": "王后坐在花園中的寶座上，溫柔地凝視手中的錢幣。她代表物質與情感的完美結合——既能創造財富，也能滋養身邊的人。",
+    "upright": [
+      "務實",
+      "滋養",
+      "財務智慧",
+      "舒適",
+      "慷慨"
+    ],
+    "enUpright": [
+      "practicality",
+      "nurturing",
+      "financial sense",
+      "comfort",
+      "generosity"
+    ],
+    "reversed": [
+      "物質主義",
+      "忽視家庭",
+      "財務混亂",
+      "自私"
+    ],
+    "enReversed": [
+      "materialism",
+      "neglecting family",
+      "financial disorder",
+      "selfishness"
+    ],
+    "explicit": "王后坐在花園中的寶座上，溫柔地凝視手中的錢幣。頭上有紅色花冠，腳下有兔子與花朵。遠方有山與河。",
+    "symbolism": "花園代表被培育的自然——她的創造；錢幣放在膝上代表她珍惜物質但不被其控制；兔子代表豐饒與生命的繁衍；花冠代表她與自然的連結；山與河代表穩固的根基與持續的資源流；她的紅色與綠色衣著代表熱情與成長的結合。",
+    "history": "錢幣王后在金色黎明體系中對應「水之土」——情感中的物質。原型是希臘神話中的得墨忒耳——農業女神，代表大地的豐饒。偉特將其設計為「花園中的母親」——她不是在野外而是在被培育的環境中，暗示她創造了讓事物成長的條件。",
+    "image": "/cards/pentacles-13.jpg",
+    "thumb": "/cards/thumbs/pentacles-13.jpg"
+  },
+  {
+    "slug": "pentacles-14",
+    "name": "錢幣國王",
+    "enName": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "suitCn": "錢幣",
+    "element": "土",
+    "rank": 14,
+    "rankCn": "國王",
+    "group": "錢幣（土）",
+    "description": "國王坐在寶座上，周圍滿是錢幣與葡萄。他代表物質世界的巔峰成就——穩健的財富、成熟的商業智慧與可靠的領導力。",
+    "upright": [
+      "財富",
+      "成功",
+      "穩定",
+      "商業頭腦",
+      "可靠"
+    ],
+    "enUpright": [
+      "wealth",
+      "success",
+      "stability",
+      "business sense",
+      "reliability"
+    ],
+    "reversed": [
+      "貪婪",
+      "腐敗",
+      "物質主義",
+      "僵化"
+    ],
+    "enReversed": [
+      "greed",
+      "corruption",
+      "materialism",
+      "rigidity"
+    ],
+    "explicit": "國王坐在寶座上，手持錢幣與權杖。周圍滿是葡萄與錢幣裝飾。他穿著厚重長袍，表情沉穩。",
+    "symbolism": "葡萄裝飾代表豐收——他的努力已經結出果實；錢幣裝飾遍布代表物質成就的全面性；厚重長袍代表地位與穩重；手持錢幣與權杖代表物質與行動的統合；寶座上的牛頭代表金牛座——物質世界的守護者；他的表情代表沉穩——不是興奮而是確定。",
+    "history": "錢幣國王在金色黎明體系中對應「風之土」——理智中的物質。原型是希臘神話中的克洛諾斯——時間與農業之神，也是聖經中的所羅門王——以智慧和財富著稱。偉特將其設計為商業領袖的原型——不是靠繼承而是靠自身努力達到頂峰的人。",
+    "image": "/cards/pentacles-14.jpg",
+    "thumb": "/cards/thumbs/pentacles-14.jpg"
+  },
+  {
+    "slug": "swords-01",
+    "name": "寶劍一",
+    "enName": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 1,
+    "rankCn": "一",
+    "group": "寶劍（風）",
+    "description": "一隻手從雲中伸出，高舉寶劍，劍尖戴著皇冠與棕櫚枝。這張牌代表思想的突破與真理的顯現——清晰的判斷力與果斷的決策。",
+    "upright": [
+      "清晰",
+      "真理",
+      "突破",
+      "智慧",
+      "決斷"
+    ],
+    "enUpright": [
+      "clarity",
+      "truth",
+      "breakthrough",
+      "intellect",
+      "decisiveness"
+    ],
+    "reversed": [
+      "混亂",
+      "誤解",
+      "暴力",
+      "錯誤判斷"
+    ],
+    "enReversed": [
+      "confusion",
+      "misunderstanding",
+      "violence",
+      "misjudgment"
+    ],
+    "explicit": "一隻手從雲中伸出，高舉寶劍，劍尖戴著皇冠與棕櫚枝。背景是山與平原。",
+    "symbolism": "寶劍代表理性與真相的鋒利；皇冠代表思想的最高成就；棕櫚枝代表勝利——但不是武力的勝利而是智慧的勝利；劍尖向上代表啟示來自上方——靈感的突破；山代表目標的高度；平原代表可以應用的廣闊空間。",
+    "history": "寶劍一在卡巴拉中對應 Kether 在 Yetzirah（風之界）的表現。在金色黎明體系中代表「智力的基礎」。寶劍的元素是風，對應思想、溝通與衝突。偉特將皇冠與棕櫚枝放在劍尖——不是暴力而是真理的加冕。這張牌與聖杯一的溫柔形成對比——聖杯是感受的開始，寶劍是思考的開始。",
+    "image": "/cards/swords-01.jpg",
+    "thumb": "/cards/thumbs/swords-01.jpg"
+  },
+  {
+    "slug": "swords-02",
+    "name": "寶劍二",
+    "enName": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 2,
+    "rankCn": "二",
+    "group": "寶劍（風）",
+    "description": "蒙眼女子雙手交叉持劍，坐在海邊的石椅上。她代表面對兩難抉擇時的僵局——閉上眼睛不去看真相，但決定終究必須做出。",
+    "upright": [
+      "僵局",
+      "抉擇",
+      "逃避",
+      "平衡",
+      "封閉"
+    ],
+    "enUpright": [
+      "stalemate",
+      "a choice",
+      "avoidance",
+      "balance",
+      "shutting out"
+    ],
+    "reversed": [
+      "釋放",
+      "決定",
+      "真相",
+      "突破僵局"
+    ],
+    "enReversed": [
+      "release",
+      "decision",
+      "truth",
+      "breaking the deadlock"
+    ],
+    "explicit": "蒙眼女子雙手交叉持劍，坐在海邊的石椅上。背後是平靜的海與崖。",
+    "symbolism": "蒙眼代表拒絕看真相——自願的無知；交叉的劍代表思想的僵局——兩種觀點互相矛盾但無法整合；石椅代表僵硬的立場；平靜的海暗示表面平靜但內心暗湧；崖代表抉擇的邊緣——再不決定就會墜落。",
+    "history": "寶劍二在金色黎明體系中對應「和平的矛盾」。蒙眼的意象直接來自正義女神的變奏——但正義女神不蒙眼，因為她敢於面對真相。寶劍二的蒙眼代表「我不想知道」——這不是公正而是逃避。偉特將其設計為僵局的隱喻——你必須取下眼罩才能做決定。",
+    "image": "/cards/swords-02.jpg",
+    "thumb": "/cards/thumbs/swords-02.jpg"
+  },
+  {
+    "slug": "swords-03",
+    "name": "寶劍三",
+    "enName": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 3,
+    "rankCn": "三",
+    "group": "寶劍（風）",
+    "description": "三把劍刺穿一顆心，背景是烏雲與雨。這張牌代表情感上的痛苦——心碎、背叛或失落。但雨後總會天晴，痛苦是療癒的開始。",
+    "upright": [
+      "心碎",
+      "悲傷",
+      "背叛",
+      "分離",
+      "痛苦"
+    ],
+    "enUpright": [
+      "heartbreak",
+      "sorrow",
+      "betrayal",
+      "separation",
+      "pain"
+    ],
+    "reversed": [
+      "療癒",
+      "釋放",
+      "原諒",
+      "恢復"
+    ],
+    "enReversed": [
+      "healing",
+      "release",
+      "forgiveness",
+      "recovery"
+    ],
+    "explicit": "三把劍刺穿一顆心，背景是烏雲與雨。",
+    "symbolism": "三把劍代表理性分析帶來的痛苦——想得太多反而更痛；心代表情感的核心——這不是表面的傷而是深層的痛；雨代表悲傷的洗滌——但雨後會天晴；烏雲代表暫時的黑暗——不是永恆的絕望。",
+    "history": "寶劍三在金色黎明體系中對應「悲傷」。偉特將其設計為整副牌中最直接的痛苦象徵——沒有任何裝飾，就是三劍穿心。這張牌是偉特最個人化的設計之一——他經歷了喪母、喪友的痛苦，這張牌可能是他對心碎的直接描繪。但也有解讀者認為，三劍穿心也可能是手術——必要的痛苦以移除病灶。",
+    "image": "/cards/swords-03.jpg",
+    "thumb": "/cards/thumbs/swords-03.jpg"
+  },
+  {
+    "slug": "swords-04",
+    "name": "寶劍四",
+    "enName": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 4,
+    "rankCn": "四",
+    "group": "寶劍（風）",
+    "description": "騎士躺在教堂中的石棺上，雙手合十，三把劍掛在牆上，一把在身旁。這張牌代表戰鬥後的休息——你需要暫停，讓身心恢復。",
+    "upright": [
+      "休息",
+      "恢復",
+      "沉思",
+      "退隱",
+      "暫停"
+    ],
+    "enUpright": [
+      "rest",
+      "recovery",
+      "contemplation",
+      "retreat",
+      "a pause"
+    ],
+    "reversed": [
+      "躁動",
+      "失眠",
+      "無法休息",
+      "重返戰場"
+    ],
+    "enReversed": [
+      "restlessness",
+      "insomnia",
+      "no rest",
+      "back to the fray"
+    ],
+    "explicit": "騎士躺在教堂中的石棺上，雙手合十。三把劍掛在牆上，一把在身旁。彩色玻璃窗有五個錢幣圖案。",
+    "symbolism": "石棺代表暫時的死亡——不是永久的；雙手合十代表祈禱或安息；四劍中三在牆上一在身邊——三代表暫停的衝突，一代表仍需警惕；彩色玻璃窗上的五個錢幣暗示與錢幣五的關聯——休息也是一種療癒；教堂代表神聖空間——恢復需要安全的環境。",
+    "history": "寶劍四在金色黎明體系中對應「休息中的力量」。偉特將其設計為冥想或修復的場景——在戰鬥之間必須休息。與錢幣五的教堂窗外呼應——兩張牌的彩色玻璃窗是同一扇，但一個在外面受凍，一個在裡面休息。偉特可能在暗示：同樣的困境，不同的選擇帶來不同的結果。",
+    "image": "/cards/swords-04.jpg",
+    "thumb": "/cards/thumbs/swords-04.jpg"
+  },
+  {
+    "slug": "swords-05",
+    "name": "寶劍五",
+    "enName": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 5,
+    "rankCn": "五",
+    "group": "寶劍（風）",
+    "description": "男子手持三把劍，輕蔑地看著兩個離去的背影。地上散落兩把劍。這張牌代表衝突中的勝利——但這種勝利可能帶來空虛與人際關係的損害。",
+    "upright": [
+      "衝突",
+      "失敗",
+      "羞辱",
+      "勝利空虛"
+    ],
+    "enUpright": [
+      "conflict",
+      "defeat",
+      "humiliation",
+      "a hollow win"
+    ],
+    "reversed": [
+      "和解",
+      "放下",
+      "和平",
+      "學習教訓"
+    ],
+    "enReversed": [
+      "reconciliation",
+      "letting go",
+      "peace",
+      "lesson learned"
+    ],
+    "explicit": "男子手持三把劍，輕蔑地看著兩個離去的背影。地上散落兩把劍。背景是暴風雨中的海。",
+    "symbolism": "三把劍在手代表勝利者的戰利品——但這種勝利不光彩；兩個背影代表被擊敗的對手；地上的劍代表他們放棄的武器；輕蔑的表情代表空虛的勝利——贏了但失去了關係；暴風雨的海代表衝突的代價——環境也受波及。",
+    "history": "寶劍五在金色黎明體系中對應「失敗中的成功」。偉特將其設計為「皮洛士式勝利」——代價慘重的勝利。這張牌常被解為衝突或背叛，但更深層是「贏了面子輸了裡子」的隱喻。暴風雨的海與寶劍二的平靜海形成對比——衝突之後，內心的海不再平靜。",
+    "image": "/cards/swords-05.jpg",
+    "thumb": "/cards/thumbs/swords-05.jpg"
+  },
+  {
+    "slug": "swords-06",
+    "name": "寶劍六",
+    "enName": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 6,
+    "rankCn": "六",
+    "group": "寶劍（風）",
+    "description": "船夫撐船載著一位披斗篷的女子與小孩，船上插著六把劍。這張牌代表從困境中過渡到平靜——雖然傷痕仍在，但你正在前進。",
+    "upright": [
+      "過渡",
+      "療癒",
+      "前進",
+      "放下",
+      "旅程"
+    ],
+    "enUpright": [
+      "transition",
+      "healing",
+      "moving on",
+      "letting go",
+      "passage"
+    ],
+    "reversed": [
+      "停滯",
+      "無法前進",
+      "回到困境",
+      "抗拒"
+    ],
+    "enReversed": [
+      "stagnation",
+      "unable to move on",
+      "back to trouble",
+      "resistance"
+    ],
+    "explicit": "船夫撐船載著一位披斗篷的女子與小孩，船上插著六把劍。從波濤水面航向平靜水面。",
+    "symbolism": "船代表過渡——從一個狀態到另一個；六把劍直立但插在船上——過去的傷痛被攜帶但不再威脅；披斗篷的女子代表悲傷但也在前行；小孩代表未來——可能不記得過去的痛苦；船夫代表引導者——可能是治療者或朋友；從波濤到平靜代表轉變正在發生。",
+    "history": "寶劍六在金色黎明體系中對應「獲得後的成功」——但偉特的設計更像是「帶著傷痕前行」。這張牌與希臘神話中卡戎渡亡魂過斯堤克斯河的場景呼應。偉特將其設計為療癒的旅程——不是忘記過去，而是帶著過去向前走。水的從粗到細代表時間的撫平作用。",
+    "image": "/cards/swords-06.jpg",
+    "thumb": "/cards/thumbs/swords-06.jpg"
+  },
+  {
+    "slug": "swords-07",
+    "name": "寶劍七",
+    "enName": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 7,
+    "rankCn": "七",
+    "group": "寶劍（風）",
+    "description": "男子躡手躡腳地抱著五把劍離開軍營，身後留下兩把。這張牌代表策略與機智——但有時也暗示欺騙或不誠實的行為。",
+    "upright": [
+      "策略",
+      "欺騙",
+      "偷竊",
+      "機智",
+      "隱瞞"
+    ],
+    "enUpright": [
+      "strategy",
+      "deception",
+      "theft",
+      "cunning",
+      "concealment"
+    ],
+    "reversed": [
+      "坦白",
+      "被抓",
+      "良心發現",
+      "歸還"
+    ],
+    "enReversed": [
+      "confession",
+      "getting caught",
+      "a pang of conscience",
+      "giving it back"
+    ],
+    "explicit": "男子躡手躡腳地抱著五把劍離開軍營，身後留下兩把。遠方有帳篷與山。",
+    "symbolism": "躡手腳代表秘密行動——不是正面的策略而是偷竊；五把劍代表他拿走了大部分——但留下了兩把，暗示他無法帶走所有；帳篷代表他從的來處——他背叛了自己的陣營；黃色背景代表謹慎或膽怯；他的表情有得意但也有不安。",
+    "history": "寶劍七在金色黎明體系中對應「不穩定的努力」。偉特將其設計為「間諜」或「叛徒」的形象——但不是純粹的惡人，而是策略家。這張牌常被解為欺騙或機智，取決於角度。與寶劍五的正面衝突不同，七號是暗中行動——有時是必要的策略，有時是不道德的偷竊。",
+    "image": "/cards/swords-07.jpg",
+    "thumb": "/cards/thumbs/swords-07.jpg"
+  },
+  {
+    "slug": "swords-08",
+    "name": "寶劍八",
+    "enName": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 8,
+    "rankCn": "八",
+    "group": "寶劍（風）",
+    "description": "蒙眼女子被八把劍圍困在泥濘中，雙手被綁。但她的腳沒有被束縛，劍也沒有完全封死出路。這張牌代表自我設限——困境多半來自內心的恐懼。",
+    "upright": [
+      "束縛",
+      "限制",
+      "無助",
+      "自我囚禁"
+    ],
+    "enUpright": [
+      "bondage",
+      "restriction",
+      "helplessness",
+      "a self-made cage"
+    ],
+    "reversed": [
+      "解放",
+      "突破",
+      "新視角",
+      "賦權"
+    ],
+    "enReversed": [
+      "liberation",
+      "breakthrough",
+      "a new perspective",
+      "empowerment"
+    ],
+    "explicit": "蒙眼女子被八把劍圍困在泥濘中，雙手被綁。背後有山與城堡。天空陰暗。",
+    "symbolism": "八劍圍繞代表思想的自囚——劍不是外來的威脅而是自己豎立的；蒙眼代表看不見出路——但繩索是鬆的；泥濘代表被困的感受——但其實腳沒有被束縛；城堡代表安全——只要走過去就能到達；山代表更高的視角——只要取下眼罩就能看見。",
+    "history": "寶劍八在金色黎明體系中對應「短暫的力量」。偉特將其設計為「自我設限」的終極隱喻——所有的束縛都是自願的。這張牌與寶劍二的蒙眼呼應，但更進一步——不僅是逃避真相，而是用思想構建了自己的牢籠。這是認知行為療法之前一百年的「認知扭曲」視覺化。",
+    "image": "/cards/swords-08.jpg",
+    "thumb": "/cards/thumbs/swords-08.jpg"
+  },
+  {
+    "slug": "swords-09",
+    "name": "寶劍九",
+    "enName": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 9,
+    "rankCn": "九",
+    "group": "寶劍（風）",
+    "description": "女子半夜從床上驚醒，雙手掩面，牆上掛著九把劍。這張牌代表深夜的焦慮與恐懼——那些盤踞在腦海中的負面思緒。",
+    "upright": [
+      "焦慮",
+      "噩夢",
+      "恐懼",
+      "失眠",
+      "罪惡感"
+    ],
+    "enUpright": [
+      "anxiety",
+      "nightmares",
+      "fear",
+      "insomnia",
+      "guilt"
+    ],
+    "reversed": [
+      "釋放",
+      "希望",
+      "面對恐懼",
+      "恢復"
+    ],
+    "enReversed": [
+      "release",
+      "hope",
+      "facing the fear",
+      "recovery"
+    ],
+    "explicit": "女子半夜從床上驚醒，雙手掩面。牆上掛著九把劍。被子有星座圖案。",
+    "symbolism": "半夜驚醒代表恐懼最活躍的時刻——深夜；九把劍代表焦慮的思緒——每一把都是一個擔憂；雙手掩面代表逃避——但劍在牆上不是在身上，暗示痛苦是心理的而非身體的；被子上的星座代表宇宙仍在運行——你的焦慮不是世界的全部；床的雕花中有兩人——代表她不是真正孤獨。",
+    "history": "寶劍九在金色黎明體系中對應「穩定的力量」——但偉特將其反轉為「穩定的焦慮」。這張牌是「精神痛苦」的經典描繪——不是因為真的發生了什麼，而是因為你 think 太多了。九把劍在牆上而非空中，暗示這些恐懼是「掛著的」——它們存在但你不必面對。偉特可能借鑒了自己的失眠經驗。",
+    "image": "/cards/swords-09.jpg",
+    "thumb": "/cards/thumbs/swords-09.jpg"
+  },
+  {
+    "slug": "swords-10",
+    "name": "寶劍十",
+    "enName": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 10,
+    "rankCn": "十",
+    "group": "寶劍（風）",
+    "description": "男子趴在地上，背上插著十把劍。遠方天空露出曙光。這張牌代表最黑暗的時刻——但黎明就在眼前，最壞的已經過去了。",
+    "upright": [
+      "結束",
+      "谷底",
+      "背叛",
+      "絕望",
+      "解脫"
+    ],
+    "enUpright": [
+      "ending",
+      "rock bottom",
+      "betrayal",
+      "despair",
+      "release"
+    ],
+    "reversed": [
+      "復甦",
+      "重生",
+      "學到教訓",
+      "最壞已過"
+    ],
+    "enReversed": [
+      "recovery",
+      "rebirth",
+      "lesson learned",
+      "the worst is over"
+    ],
+    "explicit": "男子趴在地上，背上插著十把劍。遠方天空露出曙光。水在旁邊。",
+    "symbolism": "十劍代表痛苦的極限——再多也插不下了；背後中劍代表來自暗處的打擊——你看不到但感受到了；趴在地上代表谷底——但已經到底了，不會再更糟；曙光代表黎明——最壞的已經過去了；水代表潛意識的洗滌——從痛苦中重生的可能性。",
+    "history": "寶劍十在金色黎明體系中對應「圓滿的失敗」。偉特將其設計為整副牌中最黑暗的時刻——但也是最具希望的。曙光是關鍵——它告訴你這是結束而非終結。十把劍也是十個念頭的極限——當你把所有可能的壞處都想完了，就再也想不出新的了。這張牌與死神牌呼應——結束即是重生。",
+    "image": "/cards/swords-10.jpg",
+    "thumb": "/cards/thumbs/swords-10.jpg"
+  },
+  {
+    "slug": "swords-11",
+    "name": "寶劍侍者",
+    "enName": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 11,
+    "rankCn": "侍者",
+    "group": "寶劍（風）",
+    "description": "年輕侍者高舉寶劍，站在風中。他代表思想的活躍與好奇心——渴望探索真相，但有時可能過於急躁或言語傷人。",
+    "upright": [
+      "好奇",
+      "新想法",
+      "溝通",
+      "警覺",
+      "求知"
+    ],
+    "enUpright": [
+      "curiosity",
+      "new ideas",
+      "communication",
+      "vigilance",
+      "a thirst to know"
+    ],
+    "reversed": [
+      "八卦",
+      "魯莽",
+      "膚淺",
+      "欺騙"
+    ],
+    "enReversed": [
+      "gossip",
+      "recklessness",
+      "superficiality",
+      "deceit"
+    ],
+    "explicit": "年輕侍者高舉寶劍，站在風中。他看起來充滿活力與好奇。背景有山與樹。",
+    "symbolism": "高舉寶劍代表思想的鋒芒——準備使用但不輕率；風代表元素——寶劍屬風，思考的領域；年輕代表初生之犢——不怕表達意見；衣著飄動代表行動的衝動——他隨時準備起飛；他看向遠方代表對真相的渴望。",
+    "history": "寶劍侍者在金色黎明體系中對應「土之風」——物質中的思想。偉特將其設計為「年輕知識分子」的形象——充滿好奇心但缺乏經驗。這張牌常被解為「新想法」或「訊息」，但也暗示言論可能傷人——寶劍是鋒利的，年輕人不知道何時該收劍。",
+    "image": "/cards/swords-11.jpg",
+    "thumb": "/cards/thumbs/swords-11.jpg"
+  },
+  {
+    "slug": "swords-12",
+    "name": "寶劍騎士",
+    "enName": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 12,
+    "rankCn": "騎士",
+    "group": "寶劍（風）",
+    "description": "騎士騎白馬，高舉寶劍，全速衝鋒。他代表思想化為行動——果斷、迅速、勇往直前，但也可能過於衝動而不計後果。",
+    "upright": [
+      "行動",
+      "速度",
+      "決心",
+      "進取",
+      "衝動"
+    ],
+    "enUpright": [
+      "action",
+      "speed",
+      "resolve",
+      "drive",
+      "impulsiveness"
+    ],
+    "reversed": [
+      "魯莽",
+      "混亂",
+      "攻擊性",
+      "缺乏方向"
+    ],
+    "enReversed": [
+      "recklessness",
+      "chaos",
+      "aggression",
+      "no direction"
+    ],
+    "explicit": "騎士騎白馬，高舉寶劍，全速衝鋒。馬蹄飛揚，樹木被風吹彎。",
+    "symbolism": "白馬代表純淨但不可阻擋的動力；高舉寶劍代表思想的化為行動——從理論到實踐；全速衝鋒代表不計後果的勇氣——但也可能是魯莽；被風吹彎的樹代表他經過之處的影響——改變環境；他直視前方代表不回頭——這是承諾也是固執。",
+    "history": "寶劍騎士在金色黎明體系中對應「火之風」——行動中的思想。原型是亞瑟王傳說中的高文爵士——太陽騎士，衝動但忠誠。偉特將其設計為「思想者變為行動者」的瞬間——但這種速度可能帶來混亂。與其他騎士相比，寶劍騎士最快也最危險——因為思想化為劍的速度太快。",
+    "image": "/cards/swords-12.jpg",
+    "thumb": "/cards/thumbs/swords-12.jpg"
+  },
+  {
+    "slug": "swords-13",
+    "name": "寶劍王后",
+    "enName": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 13,
+    "rankCn": "王后",
+    "group": "寶劍（風）",
+    "description": "王后坐在寶座上，一手持劍，一手張開。她代表清晰的思維與獨立的判斷——以理性與智慧面對世界，不讓情感蒙蔽真相。",
+    "upright": [
+      "清晰",
+      "獨立",
+      "智慧",
+      "直接",
+      "理性"
+    ],
+    "enUpright": [
+      "clarity",
+      "independence",
+      "wisdom",
+      "directness",
+      "reason"
+    ],
+    "reversed": [
+      "冷酷",
+      "苛刻",
+      "孤立",
+      "偏見"
+    ],
+    "enReversed": [
+      "coldness",
+      "harshness",
+      "isolation",
+      "bias"
+    ],
+    "explicit": "王后坐在寶座上，一手持劍，一手張開。她面向前方，目光銳利。天空中有雲與飛鳥。孩子坐在下方。",
+    "symbolism": "持劍代表理性的準備——她隨時可以斬斷虛假；張開的手代表公平——她願意聽取兩面；銳利目光代表看穿謊言；寶座上的蝴蝶代表轉化——她的判斷帶來改變；孩子代表需要保護的無辜——她用劍來守護；天空的鳥代表自由——她的思考不受束縛。",
+    "history": "寶劍王后在金色黎明體系中對應「水之風」——情感中的思想。原型是希臘神話中的雅典娜——智慧女神，從父親宙斯頭中出生，代表純粹理性的女性力量。偉特將其設計為「鐵面無私的法官」——不是冷酷而是清晰。她與聖杯王后形成完美的對比：一個以心理解世界，一個以腦理解世界。",
+    "image": "/cards/swords-13.jpg",
+    "thumb": "/cards/thumbs/swords-13.jpg"
+  },
+  {
+    "slug": "swords-14",
+    "name": "寶劍國王",
+    "enName": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "suitCn": "寶劍",
+    "element": "風",
+    "rank": 14,
+    "rankCn": "國王",
+    "group": "寶劍（風）",
+    "description": "國王坐在寶座上，手持寶劍，目光銳利。他代表思想的最高權威——以邏輯、紀律與公正來治理，是最理性的決策者。",
+    "upright": [
+      "權威",
+      "邏輯",
+      "公正",
+      "紀律",
+      "智慧"
+    ],
+    "enUpright": [
+      "authority",
+      "logic",
+      "impartiality",
+      "discipline",
+      "wisdom"
+    ],
+    "reversed": [
+      "專制",
+      "冷酷",
+      "濫權",
+      "不公"
+    ],
+    "enReversed": [
+      "autocracy",
+      "coldness",
+      "abuse of power",
+      "injustice"
+    ],
+    "explicit": "國王坐在寶座上，手持寶劍，目光銳利。寶座上有蝴蝶與月。他的右手舉起，左手持劍。",
+    "symbolism": "持劍代表權威——他不僅思考也執法；銳利目光代表洞悉一切——沒有人能在他面前隱藏；蝴蝶代表轉化——他的判決帶來改變；月代表直覺——他不僅靠邏輯也靠直覺判斷；右手舉起代表命令——他的意志就是法則；寶座上的風元素裝飾代表他統御思想的領域。",
+    "history": "寶劍國王在金色黎明體系中對應「風之風」——純粹的思想。原型是希臘神話中的宙斯——天空之父，以雷霆（思想的鋒芒）統治。偉特將其設計為「最高法官」的形象——不是暴君而是公正的裁決者。這張牌常被解為需要理性決斷的時刻——不再猶豫，以邏輯和公正做出最終判斷。",
+    "image": "/cards/swords-14.jpg",
+    "thumb": "/cards/thumbs/swords-14.jpg"
+  },
+  {
+    "slug": "wands-01",
+    "name": "權杖一",
+    "enName": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 1,
+    "rankCn": "一",
+    "group": "權杖（火）",
+    "description": "一隻手從雲中伸出，握著一根發芽的權杖。這張牌代表行動與創造力的新起點——靈感來襲，充滿熱情與潛力。",
+    "upright": [
+      "靈感",
+      "新開始",
+      "熱情",
+      "創造力",
+      "潛力"
+    ],
+    "enUpright": [
+      "inspiration",
+      "a new start",
+      "passion",
+      "creativity",
+      "potential"
+    ],
+    "reversed": [
+      "延遲",
+      "缺乏動力",
+      "錯失機會",
+      "創意枯竭"
+    ],
+    "enReversed": [
+      "delay",
+      "low motivation",
+      "a missed opening",
+      "creative block"
+    ],
+    "explicit": "一隻手從雲中伸出，握著一根發芽的權杖。背景是城堡與河流，遠方有山。",
+    "symbolism": "發芽的權杖代表生命力的萌發——行動的種子已經播下；雲中的手代表靈感來自更高的層面——不是你自己想出來而是被賦予的；城堡代表已建立的基礎——你的行動有後盾；河流代表情感的資源；山代表目標的高度；葉子的數量暗示成長的潛力。",
+    "history": "權杖一在卡巴拉中對應 Kether 在 Atzilith（火之界）的表現。在金色黎明體系中代表「行動的基礎」。權杖的元素是火，對應意志力、熱情與創造力。偉特將其設計為「靈感的閃電」——與聖杯一的溫柔流入不同，權杖一是突然的火花。這張牌與愚者呼應——新的開始，但這次是有方向的。",
+    "image": "/cards/wands-01.jpg",
+    "thumb": "/cards/thumbs/wands-01.jpg"
+  },
+  {
+    "slug": "wands-02",
+    "name": "權杖二",
+    "enName": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 2,
+    "rankCn": "二",
+    "group": "權杖（火）",
+    "description": "男子站在城堡高處，一手持權杖，一手扶著另一根權杖，眺望遠方的海洋。他代表規劃未來——你已站穩腳跟，現在要決定下一步的方向。",
+    "upright": [
+      "規劃",
+      "遠見",
+      "抉擇",
+      "探索",
+      "未來"
+    ],
+    "enUpright": [
+      "planning",
+      "vision",
+      "a choice",
+      "exploration",
+      "the future"
+    ],
+    "reversed": [
+      "缺乏規劃",
+      "恐懼未知",
+      "停滯",
+      "猶豫"
+    ],
+    "enReversed": [
+      "no plan",
+      "fear of the unknown",
+      "stagnation",
+      "hesitation"
+    ],
+    "explicit": "男子站在城堡高處，一手持權杖，一手扶著另一根權杖。他眺望遠方的海洋，手持地球儀。",
+    "symbolism": "城堡高處代表已建立的基礎——你已經站穩了；兩根權杖代表當前與未來的方向；地球儀代表全球視野——你的計劃不局限於眼前；海洋代表未知的可能性；眺望代表規劃——不是行動而是思考下一步；牆上的玫瑰與百合代表在物質基礎上的精神追求。",
+    "history": "權杖二在金色黎明體系中對應「統治的力量」。偉特將其設計為「站在高處俯瞰」的形象——這是征服者或探險家的姿態。地球儀是關鍵——它代表哥倫布時代的精神，暗示你已經擁有了本地（城堡），但更大的世界（海洋）在等你。這張牌與錢幣三的合作形成對比——二號是獨自規劃，三號是團隊執行。",
+    "image": "/cards/wands-02.jpg",
+    "thumb": "/cards/thumbs/wands-02.jpg"
+  },
+  {
+    "slug": "wands-03",
+    "name": "權杖三",
+    "enName": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 3,
+    "rankCn": "三",
+    "group": "權杖（火）",
+    "description": "男子背對我們站在懸崖邊，看著三艘船航向遠方。他代表計劃已經付諸行動——你已邁出第一步，現在等待成果的到來。",
+    "upright": [
+      "擴張",
+      "遠見",
+      "貿易",
+      "等待",
+      "成長"
+    ],
+    "enUpright": [
+      "expansion",
+      "foresight",
+      "trade",
+      "waiting",
+      "growth"
+    ],
+    "reversed": [
+      "挫折",
+      "延遲",
+      "缺乏遠見",
+      "退縮"
+    ],
+    "enReversed": [
+      "setbacks",
+      "delay",
+      "short-sightedness",
+      "pulling back"
+    ],
+    "explicit": "男子背對我們站在懸崖邊，看著三艘船航向遠方。他手持一根權杖。背景是金色天空與海。",
+    "symbolism": "背對我們代表他已經超越了個人——他在看更大的圖景；三艘船代表行動已經展開——計劃付諸實踐；懸崖邊代表視野的制高點；金色天空代表機會的時刻；三根權杖中的兩根在他身後——已經完成，一根在手——正在進行。",
+    "history": "權杖三在金色黎明體系中對應「確立的力量」。偉特將其設計為「等待船隻歸來」的場景——這是商人站在港口等待貿易船回航的隱喻。與權杖二的規劃不同，三號是行動已經開始，現在等待結果。這張牌與馬賽塔羅的差異很大——馬賽版只是三根棍子，偉特加入了海洋與船隻，將其提升為「前瞻」的象徵。",
+    "image": "/cards/wands-03.jpg",
+    "thumb": "/cards/thumbs/wands-03.jpg"
+  },
+  {
+    "slug": "wands-04",
+    "name": "權杖四",
+    "enName": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 4,
+    "rankCn": "四",
+    "group": "權杖（火）",
+    "description": "四根權杖搭成花棚，兩人高舉花束慶祝。背景是城堡。這張牌代表穩固的基礎與慶祝——一個階段的完成，值得與親友分享喜悅。",
+    "upright": [
+      "慶祝",
+      "穩定",
+      "家園",
+      "和諧",
+      "里程碑"
+    ],
+    "enUpright": [
+      "celebration",
+      "stability",
+      "home",
+      "harmony",
+      "a milestone"
+    ],
+    "reversed": [
+      "不穩",
+      "家庭問題",
+      "缺乏歸屬",
+      "延遲"
+    ],
+    "enReversed": [
+      "instability",
+      "family trouble",
+      "no sense of belonging",
+      "delay"
+    ],
+    "explicit": "四根權杖搭成花棚，兩人高舉花束慶祝。背景是城堡與護城河。",
+    "symbolism": "花棚代表結構與慶祝的結合——四根柱子是穩固的基礎；花束代表豐饒與喜悅；城堡代表家與安全；護城河代表保護；兩人不是面對面而是並肩——代表共同的慶祝而非對話；黃色背景代表溫暖與快樂。",
+    "history": "權杖四在金色黎明體系中對應「完成的完美」。偉特將其設計為慶祝的場景——可能是婚禮或豐收祭。四根權杖搭成棚架的意象來自猶太教的 Sukkot（住棚節）——搭建臨時棚屋紀念曠野中的庇護。這張牌常被解為「家」或「歸來」——經歷權杖二的規劃和三號的出發，四號是回家的喜悅。",
+    "image": "/cards/wands-04.jpg",
+    "thumb": "/cards/thumbs/wands-04.jpg"
+  },
+  {
+    "slug": "wands-05",
+    "name": "權杖五",
+    "enName": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 5,
+    "rankCn": "五",
+    "group": "權杖（火）",
+    "description": "五個年輕人各持權杖，互相交鋒。這張牌代表競爭與衝突——可能是良性的競爭激發進步，也可能是無謂的爭鬥消耗精力。",
+    "upright": [
+      "競爭",
+      "衝突",
+      "挑戰",
+      "辯論",
+      "混亂"
+    ],
+    "enUpright": [
+      "competition",
+      "conflict",
+      "challenge",
+      "debate",
+      "disorder"
+    ],
+    "reversed": [
+      "和解",
+      "合作",
+      "避免衝突",
+      "共識"
+    ],
+    "enReversed": [
+      "reconciliation",
+      "cooperation",
+      "conflict avoided",
+      "consensus"
+    ],
+    "explicit": "五個年輕人各持權杖，互相交鋒。姿態激烈但沒有真正的傷害。背景是藍天。",
+    "symbolism": "五人各持一根代表各自有不同的目標；交鋒的姿態代表競爭——但沒有人倒下，暗示這是良性的；年輕代表精力充沛——競爭是成長的方式；藍天代表開放的環境——這不是暗中鬥爭而是公開的競爭；沒有觀眾，暗示這是為了自己而非表演。",
+    "history": "權杖五在金色黎明體系中對應「競爭」。偉特將其設計為「混戰」的場景——但仔細看，沒有人真的被擊中。這可能是運動競賽而非真正的衝突。這張牌與寶劍五的空虛勝利形成對比——權杖五是過程的激烈，寶劍五是結果的空虛。偉特可能參考了中世紀的棍術比賽——年輕人用木棍互相敲打作為訓練。",
+    "image": "/cards/wands-05.jpg",
+    "thumb": "/cards/thumbs/wands-05.jpg"
+  },
+  {
+    "slug": "wands-06",
+    "name": "權杖六",
+    "enName": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 6,
+    "rankCn": "六",
+    "group": "權杖（火）",
+    "description": "騎士頭戴桂冠騎白馬，手持權杖，群眾簇擁。這張牌代表勝利與公眾的認可——你的努力被看見，獲得應有的掌聲。",
+    "upright": [
+      "勝利",
+      "認可",
+      "自信",
+      "凱旋",
+      "領導"
+    ],
+    "enUpright": [
+      "victory",
+      "recognition",
+      "confidence",
+      "triumph",
+      "leadership"
+    ],
+    "reversed": [
+      "失敗",
+      "自大",
+      "缺乏認可",
+      "嫉妒"
+    ],
+    "enReversed": [
+      "defeat",
+      "arrogance",
+      "no recognition",
+      "envy"
+    ],
+    "explicit": "騎士頭戴桂冠騎白馬，手持權杖，群眾簇擁。前方有人揮舞帽子。",
+    "symbolism": "桂冠代表勝利——羅馬式的凱旋；白馬代表純淨的動力——不是靠暴力而是靠正確的行動；群眾代表公眾的認可——你的努力被看見了；揮帽代表慶祝——支持者的熱情；權杖高舉代表領導——他不僅贏了也在帶領。",
+    "history": "權杖六在金色黎明體系中對應「勝利」。偉特將其設計為「凱旋遊行」的場景——羅馬將軍的 triumphus。桂冠是希臘的月桂冠——給予競技勝利者的最高榮譽。這張牌與寶劍五的空虛勝利形成對比——六號是真正的勝利，有群眾的認可。但偉特也暗示了一個問題：你是為了自己還是為了掌聲？",
+    "image": "/cards/wands-06.jpg",
+    "thumb": "/cards/thumbs/wands-06.jpg"
+  },
+  {
+    "slug": "wands-07",
+    "name": "權杖七",
+    "enName": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 7,
+    "rankCn": "七",
+    "group": "權杖（火）",
+    "description": "男子站在高處，手持一根權杖，抵擋下方六根權杖的攻擊。這張牌代表堅守立場——即使面對眾多挑戰，也要勇敢捍衛自己的信念。",
+    "upright": [
+      "堅持",
+      "防守",
+      "立場",
+      "勇氣",
+      "挑戰"
+    ],
+    "enUpright": [
+      "perseverance",
+      "defense",
+      "standing your ground",
+      "courage",
+      "challenge"
+    ],
+    "reversed": [
+      "退縮",
+      "放棄",
+      "被壓倒",
+      "失去立場"
+    ],
+    "enReversed": [
+      "backing down",
+      "giving up",
+      "being overwhelmed",
+      "losing ground"
+    ],
+    "explicit": "男子站在高處，手持一根權杖，抵擋下方六根權杖的攻擊。姿態是防禦而非進攻。",
+    "symbolism": "站在高處代表有地利優勢——但也意味著孤軍奮戰；一根對六根代表力量的不對等——但他的位置補償了數量的劣勢；防禦姿態代表他在捍衛而非攻擊——這是正義的立場；綠色衣著代表成長的意志——他不會輕易放棄；表情代表決心——即使 outnumbered 也不退縮。",
+    "history": "權杖七在金色黎明體系中對應「不穩定的成功」。偉特將其設計為「以一擋六」的場景——這是守城者的隱喻。你已經取得了某種成就（權杖六的勝利），但現在有人要來搶奪。這張牌與權杖五的混戰不同——七號是有立場的，你知道自己在保護什麼。",
+    "image": "/cards/wands-07.jpg",
+    "thumb": "/cards/thumbs/wands-07.jpg"
+  },
+  {
+    "slug": "wands-08",
+    "name": "權杖八",
+    "enName": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 8,
+    "rankCn": "八",
+    "group": "權杖（火）",
+    "description": "八根權杖在空中飛翔，朝向遠方。這張牌代表事情快速進展——障礙已清除，行動的時機到了，一切都將加速前進。",
+    "upright": [
+      "速度",
+      "進展",
+      "行動",
+      "訊息",
+      "動能"
+    ],
+    "enUpright": [
+      "speed",
+      "progress",
+      "action",
+      "news",
+      "momentum"
+    ],
+    "reversed": [
+      "延遲",
+      "停滯",
+      "混亂",
+      "阻礙"
+    ],
+    "enReversed": [
+      "delay",
+      "stagnation",
+      "disorder",
+      "obstruction"
+    ],
+    "explicit": "八根權杖在空中飛翔，朝向遠方。沒有人物，只有權杖與天空。下方有山與河。",
+    "symbolism": "八根權杖同時飛行代表事情的快速進展——所有元素同時到位；沒有人物代表這不是人為的——是自然的推進；空中飛行代表無阻力——障礙已清除；朝向同一方向代表目標一致；山與河代表下方穩定的世界——你正在飛越它。",
+    "history": "權杖八在金色黎明體系中對應「速度」。偉特將其設計為整副牌中唯一沒有人物的數字牌——只有八根飛行的權杖。這是「箭矢」的隱喻——所有事情同時射出，速度極快。這張牌與其他權杖牌形成對比——一到七都是人與權杖的互動，八號是權杖自行飛行，暗示動能已經超越了個人的控制。",
+    "image": "/cards/wands-08.jpg",
+    "thumb": "/cards/thumbs/wands-08.jpg"
+  },
+  {
+    "slug": "wands-09",
+    "name": "權杖九",
+    "enName": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 9,
+    "rankCn": "九",
+    "group": "權杖（火）",
+    "description": "受傷的男子拄著權杖，身後是八根權杖形成的柵欄。他代表韌性與堅持——雖然疲憊，但你已經走到最後一哩路，不要放棄。",
+    "upright": [
+      "韌性",
+      "堅持",
+      "最後一哩路",
+      "防備"
+    ],
+    "enUpright": [
+      "resilience",
+      "persistence",
+      "the last stretch",
+      "guardedness"
+    ],
+    "reversed": [
+      "放棄",
+      "疲憊",
+      "退縮",
+      "無法堅持"
+    ],
+    "enReversed": [
+      "giving up",
+      "exhaustion",
+      "retreat",
+      "unable to hold on"
+    ],
+    "explicit": "受傷的男子拄著權杖，身後是八根權杖形成的柵欄。他表情疲憊但不放棄。",
+    "symbolism": "頭上的繃帶代表最近的戰鬥——你受了傷但還在站著；拄著的權杖代表支撐——你靠意志力站著；八根柵欄代表之前的防禦——你已經建立了屏障但仍需守護；表情疲憊但堅定——這是韌性的表現；他站在高處，暗示已經走了很遠。",
+    "history": "權杖九在金色黎明體系中對應「力量的基礎」。偉特將其設計為「最後一哩路」的隱喻——你已經走了很遠，受了傷，但不能放棄。這張牌與權杖七的防守形成系列——七號是面對來襲，九號是戰後的疲憊但仍需堅持。繃帶是偉特的原創——在早期塔羅中這張牌只是一個手持棍子的人。",
+    "image": "/cards/wands-09.jpg",
+    "thumb": "/cards/thumbs/wands-09.jpg"
+  },
+  {
+    "slug": "wands-10",
+    "name": "權杖十",
+    "enName": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 10,
+    "rankCn": "十",
+    "group": "權杖（火）",
+    "description": "男子抱著十根權杖，彎腰前行。他代表沉重的負擔——你可能承擔了太多責任，需要學會放下或委派，否則會被壓垮。",
+    "upright": [
+      "負擔",
+      "壓力",
+      "責任",
+      "過度",
+      "完成"
+    ],
+    "enUpright": [
+      "burden",
+      "pressure",
+      "responsibility",
+      "overextension",
+      "seeing it through"
+    ],
+    "reversed": [
+      "放下",
+      "委派",
+      "減輕負擔",
+      "逃避"
+    ],
+    "enReversed": [
+      "putting it down",
+      "delegating",
+      "relief",
+      "shirking"
+    ],
+    "explicit": "男子抱著十根權杖，彎腰前行。他正在走向遠方的城鎮。",
+    "symbolism": "十根權杖代表過度負荷——你承擔了太多；彎腰代表被壓垮的姿態——但仍在前行；朝向城鎮代表目標在望——你快要到了；紅色衣著代表熱情——但熱情可能正是你負擔過重的原因；十是圓滿的數字——但這種圓滿是沉重的。",
+    "history": "權杖十在金色黎明體系中對應「壓抑的力量」。偉特將其設計為「過勞」的視覺化——這是現代人 burnout 的預言。與權杖八的速度形成對比——八號是失控的快，十號是負重的不堪。這張牌的深層含義是：成功到了極限就變成負擔。你需要學會放下一些權杖——不是所有事情都需要你。",
+    "image": "/cards/wands-10.jpg",
+    "thumb": "/cards/thumbs/wands-10.jpg"
+  },
+  {
+    "slug": "wands-11",
+    "name": "權杖侍者",
+    "enName": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 11,
+    "rankCn": "侍者",
+    "group": "權杖（火）",
+    "description": "年輕侍者手持權杖，充滿好奇地看著它。他代表新冒險的開始——充滿熱情與探索精神，準備踏上未知的旅程。",
+    "upright": [
+      "探索",
+      "熱情",
+      "新消息",
+      "冒險",
+      "潛力"
+    ],
+    "enUpright": [
+      "exploration",
+      "enthusiasm",
+      "news",
+      "adventure",
+      "potential"
+    ],
+    "reversed": [
+      "缺乏方向",
+      "拖延",
+      "壞消息",
+      "不成熟"
+    ],
+    "enReversed": [
+      "no direction",
+      "procrastination",
+      "bad news",
+      "immaturity"
+    ],
+    "explicit": "年輕侍者手持權杖，充滿好奇地看著它。他站在乾燥的地面上，蜥蜴在腳邊。",
+    "symbolism": "好奇地看著權杖代表對新冒險的渴望——他還不知道權杖的力量；蜥蜴代表火元素的動物——變色龍般的適應力；乾燥的地面代表火元素的環境；他的衣著有火焰圖案——暗示他天生屬於這個元素；他的姿態是準備出發——但還沒有動。",
+    "history": "權杖侍者在金色黎明體系中對應「土之火」——物質中的行動。偉特將其設計為「年輕探險家」的形象——充滿熱情但缺乏經驗。蜥蜴的意象來自薩拉森的壁虎——在沙漠中生存的生物，暗示火元素的乾燥與活力。這張牌與其他侍者形成對比：聖杯侍者看杯中的魚（情感），權杖侍者看手中的杖（行動）。",
+    "image": "/cards/wands-11.jpg",
+    "thumb": "/cards/thumbs/wands-11.jpg"
+  },
+  {
+    "slug": "wands-12",
+    "name": "權杖騎士",
+    "enName": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 12,
+    "rankCn": "騎士",
+    "group": "權杖（火）",
+    "description": "騎士騎紅馬，手持權杖，充滿能量地前進。他代表行動與熱情——勇往直前，充滿冒險精神，但也可能過於衝動。",
+    "upright": [
+      "行動",
+      "冒險",
+      "熱情",
+      "衝動",
+      "勇氣"
+    ],
+    "enUpright": [
+      "action",
+      "adventure",
+      "passion",
+      "impulsiveness",
+      "courage"
+    ],
+    "reversed": [
+      "魯莽",
+      "急躁",
+      "半途而廢",
+      "混亂"
+    ],
+    "enReversed": [
+      "recklessness",
+      "impatience",
+      "quitting halfway",
+      "chaos"
+    ],
+    "explicit": "騎士騎紅馬，手持權杖，充滿能量地前進。馬蹄飛揚，衣角飄動。背景有沙漠與金字塔。",
+    "symbolism": "紅馬代表熱情與速度——火元素的動力；飛揚的馬蹄代表不顧一切的衝勁；權杖代表行動的工具——但他是揮舞而非使用；沙漠代表火元素的環境——乾燥且充滿挑戰；金字塔代表遠方的目標——也是文明的成就；他的衣角有火焰——他就是火。",
+    "history": "權杖騎士在金色黎明體系中對應「火之火」——純粹的行動。原型是希臘神話中的阿基里斯——最強大的戰士，但衝動可能帶來毀滅。偉特將其設計為「火焰騎士」——這是整副牌中最具能量的角色，但也最可能燒盡。與寶劍騎士的鋒利不同，權杖騎士是熱情的——他不是要傷人而是要前進，但路上的一切都可能被燒到。",
+    "image": "/cards/wands-12.jpg",
+    "thumb": "/cards/thumbs/wands-12.jpg"
+  },
+  {
+    "slug": "wands-13",
+    "name": "權杖王后",
+    "enName": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 13,
+    "rankCn": "王后",
+    "group": "權杖（火）",
+    "description": "王后坐在寶座上，手持權杖與向日葵，黑貓在腳邊。她代表自信與魅力——以熱情與決心領導他人，散發溫暖的光芒。",
+    "upright": [
+      "自信",
+      "魅力",
+      "熱情",
+      "獨立",
+      "領導"
+    ],
+    "enUpright": [
+      "confidence",
+      "charisma",
+      "passion",
+      "independence",
+      "leadership"
+    ],
+    "reversed": [
+      "嫉妒",
+      "控制",
+      "缺乏自信",
+      "專橫"
+    ],
+    "enReversed": [
+      "jealousy",
+      "control",
+      "low self-confidence",
+      "domineering"
+    ],
+    "explicit": "王后坐在寶座上，手持權杖與向日葵，黑貓在腳邊。她自信地看著前方。",
+    "symbolism": "向日葵代表永遠朝向光明——她的力量來自陽光；黑貓代表神秘與直覺——她不僅有熱情也有深度；權杖代表行動的工具——但她不是揮舞而是持著；自信的目光代表她知道自己的力量；寶座上的獅子代表勇氣——她與力量的牌呼應；她的衣著有太陽圖案——她就是太陽。",
+    "history": "權杖王后在金色黎明體系中對應「水之火」——情感中的行動。原型是希臘神話中的阿爾忒彌斯——狩獵女神，獨立而強大。偉特將其設計為「磁性領袖」——她不需要命令，她的存在本身就是號召。黑貓的意象長期與女巫連結在一起，暗示她有超越常規的力量。",
+    "image": "/cards/wands-13.jpg",
+    "thumb": "/cards/thumbs/wands-13.jpg"
+  },
+  {
+    "slug": "wands-14",
+    "name": "權杖國王",
+    "enName": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "suitCn": "權杖",
+    "element": "火",
+    "rank": 14,
+    "rankCn": "國王",
+    "group": "權杖（火）",
+    "description": "國王坐在寶座上，手持權杖，目光堅定。他代表行動的巔峰——以遠見與勇氣領導，是創業家與開拓者的原型。",
+    "upright": [
+      "領導",
+      "遠見",
+      "創業",
+      "勇氣",
+      "啟發"
+    ],
+    "enUpright": [
+      "leadership",
+      "vision",
+      "enterprise",
+      "courage",
+      "inspiring others"
+    ],
+    "reversed": [
+      "專制",
+      "魯莽",
+      "過度自信",
+      "暴怒"
+    ],
+    "enReversed": [
+      "autocracy",
+      "recklessness",
+      "overconfidence",
+      "rage"
+    ],
+    "explicit": "國王坐在寶座上，手持權杖，目光堅定。寶座上有火蜥蜴裝飾。一隻火蜥蜴在地上。",
+    "symbolism": "權杖代表行動的最高權威——他是最終的決策者；火蜥蜴代表火元素的生物——能穿火而不傷，暗示他掌控了最危險的力量；目光堅定代表遠見——他看到別人看不到的未來；寶座上的蜥蜴咬著自己的尾巴——銜尾蛇的變奏，代表永恆的循環；他的紅色衣著代表熱情與行動。",
+    "history": "權杖國王在金色黎明體系中對應「風之火」——理智中的行動。原型是希臘神話中的宙斯——雷霆之王，以意志統治一切。偉特將其設計為「創業家國王」——他不是繼承王位而是用權杖打下了天下。火蜥蜴是帕拉塞爾蘇斯的元素生物——火中的生命，暗示他與火元素有著最深的連結。",
+    "image": "/cards/wands-14.jpg",
+    "thumb": "/cards/thumbs/wands-14.jpg"
+  }
+]

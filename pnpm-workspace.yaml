@@ -1,0 +1,5 @@
+# 允許這些相依套件執行 build scripts（postinstall 下載平台二進位檔）
+# esbuild：wrangler 的打包器；workerd：wrangler dev 的本機執行環境
+allowBuilds:
+  esbuild: true
+  workerd: true

@@ -1,0 +1,27 @@
+/**
+ * Wrangler 設定，詳見：
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ *
+ * 這個 Worker 是 stateless 的 MCP server（createMcpHandler），
+ * 不需要 Durable Object，也不需要 migrations。
+ * 日後加占卜紀錄（save_reading）時，資料放 D1，綁塔羅站同一個資料庫即可。
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "tarot-mcp",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-07-11",
+	"compatibility_flags": ["nodejs_compat"],
+	// 正式網域：mcp.tarot.shinder.work（custom domain，僅在 deploy 時生效）。
+	// shinder.work 這個 zone 已在本帳號的 Cloudflare 上。
+	// 改網域時記得同步 src/index.ts 的 ALLOWED_HOSTNAMES。
+	"routes": [
+		{
+			"pattern": "mcp.tarot.shinder.work",
+			"custom_domain": true
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
