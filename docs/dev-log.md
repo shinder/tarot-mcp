@@ -2,6 +2,47 @@
 
 倒序，最新在上。記「做了什麼、卡在哪、怎麼解」，設計理由放 `design.md`。
 
+## 2026-09-03 真實對話驗證工具描述
+
+### 做了什麼
+
+- 第一次 commit（7afde1f）。
+- 用 `claude -p` 非互動模式接上本機 server，跑七段真實對話，觀察模型呼叫工具的順序。做法：
+
+  ```sh
+  pnpm dev --port 8799
+  echo '{"mcpServers":{"tarot":{"type":"http","url":"http://localhost:8799/mcp"}}}' > /tmp/mcp.json
+  claude -p "用三張牌陣幫我看看最近想換工作這件事" \
+    --mcp-config /tmp/mcp.json --strict-mcp-config \
+    --allowedTools "mcp__tarot__*" --output-format stream-json --verbose < /dev/null \
+    | jq -r 'select(.type=="assistant") | .message.content[] | select(.type=="tool_use") | "\(.name) \(.input|tojson)"'
+  ```
+
+- 結果摘要（每段約 0.23 到 0.54 美元）：
+
+  | 對話 | 工具呼叫順序 | 判定 |
+  |---|---|---|
+  | 三張牌陣問換工作 | get_spread(action) → draw_cards → get_card ×3 | 符合預期，自行從三種三張牌陣挑了 action 並說明理由 |
+  | 抽今日牌 | draw_cards(daily) → get_card | 符合預期 |
+  | 愚者逆位是什麼意思 | get_card("愚者", full) | 中文名解析正確 |
+  | cup 4 是什麼牌 | get_card("cups-04") | 模型自己把口語轉成 slug，候選建議沒被觸發 |
+  | 凱爾特十字問感情 | get_spread(celtic) → draw_cards → get_card ×10 | 符合預期，解讀依六步順序，沒有斷言結果 |
+  | 英文抽一張牌 | draw_cards(lang=en) 之後**沒有**查 get_card | 牌面描述靠記憶，偏離 instructions |
+  | 有哪些牌陣可問愛情 | get_spread ×3 | 靠描述裡列的 id 與張數列出八種，再細查三種，可接受 |
+
+- 修正：`draw_cards` 描述改成明說回傳只有關鍵字，解讀前要對每張牌呼叫 `get_card`（不分語言），並提醒把 seed 告訴使用者；server instructions 同步加上這句。重跑英文與今日牌兩段，模型都改為抽完就查 `get_card`。
+
+### 觀察到、還沒處理
+
+- 大牌陣一律 full 模式，凱爾特十字一次拉十張長文，約 3,300 個輸出 token 以上的解讀。目前可接受，若之後要省 token，可在描述裡建議大牌陣先用 brief。
+- 使用者只說「三張牌陣」時，模型自行選了 action，沒有先問。這是合理判斷，暫不處理。
+- `claude -p` 每段對話都會先跑一次 ToolSearch 載入工具定義，這是 Claude Code 的延遲載入機制，不是 server 的問題。
+
+### 下一步
+
+1. 部署到正式站，README 的連線指令換成正式網址驗證一次。
+2. 建 GitHub repo。
+
 ## 2026-09-02 第一階段骨架
 
 ### 做了什麼

@@ -16,7 +16,7 @@ export const SERVER_VERSION = "0.1.0";
 const INSTRUCTIONS = [
   "Tarot reference server for the Rider-Waite-Smith deck (78 cards), backed by tarot.shinder.work.",
   "Tools return reference data only: draw_cards shuffles and draws on the server; get_card, get_spread and list_cards look up meanings and spreads.",
-  "Interpretation is the model's job. Ground every meaning in tool results rather than memory, and combine card keywords with the position meaning from the spread.",
+  "Interpretation is the model's job. Ground every meaning in tool results rather than memory: after draw_cards, call get_card for each drawn card before interpreting, and combine card keywords with the position meaning from the spread.",
   "This is a learning and reflection aid, not prediction. Do not assert the future, read absent people's minds, or give medical, legal or financial directives.",
   "Default language is Traditional Chinese (lang: zh); pass lang: en for English names and keywords. Long-form card text is Chinese only.",
 ].join(" ");

@@ -76,7 +76,9 @@ export function registerDrawCards(server: McpServer) {
       description:
         "Shuffle a 78-card Rider-Waite-Smith deck and draw cards on the server. " +
         "Prefer a `spread` so each card comes with its position meaning; otherwise give `count`. " +
-        "Returns names, orientation and keywords per card. Call get_card for the full meaning of any card. " +
+        "Returns only names, orientation and keywords per card, plus the seed. " +
+        "Before interpreting, call get_card for every drawn card, in any language, so the reading is grounded in the reference and not in memory. " +
+        "Tell the user the seed so the same draw can be reproduced. " +
         "The result is for learning and reflection, not prediction; interpretation is your job, not the tool's.",
       inputSchema: InputSchema,
       outputSchema: OutputSchema,

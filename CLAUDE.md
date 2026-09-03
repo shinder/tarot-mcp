@@ -28,7 +28,7 @@ pnpm deploy
 ## 慣例
 
 - 一律正體中文、台灣用詞；不使用 emoji。程式註解也是中文。
-- 工具的 `description` 與參數描述是給模型看的 prompt，用英文寫、要說清楚「何時用、與哪些工具配合、回什麼」。改了要用 Claude Code 實際對話驗證。
+- 工具的 `description` 與參數描述是給模型看的 prompt，用英文寫、要說清楚「何時用、與哪些工具配合、回什麼」。改了要用 Claude Code 實際對話驗證；可用 `claude -p` 搭 `--mcp-config` 與 `--output-format stream-json` 批次跑，做法見 `docs/dev-log.md` 2026-09-03 那段。
 - 工具只回資料，不做解讀；不要新增「解牌」類工具。
 - 回傳控制 token：清單只回 slug 與名稱，長文只在 `get_card` 的 full 模式。
 - 改牌義一律改塔羅站的來源再 `pnpm sync-data`；牌陣定義在 `src/data/spreads.ts` 手動維護，兩種語言都要填。
