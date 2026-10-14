@@ -138,4 +138,5 @@ docs/
 
 ## 授權與資料
 
-牌圖為公有領域（1909 RWS，Wikimedia Commons）。牌義文字與牌陣內容屬小新學塔羅。
+程式碼以 [MIT License](LICENSE) 授權。
+牌圖為公有領域（1909 RWS，Wikimedia Commons）。`src/data/cards.json` 的牌義文字與 `src/data/spreads.ts` 的牌陣內容屬[小新學塔羅](https://tarot.shinder.work)，不在 MIT 授權範圍內，引用請註明出處。
