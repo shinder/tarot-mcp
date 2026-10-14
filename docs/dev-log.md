@@ -2,6 +2,28 @@
 
 倒序，最新在上。記「做了什麼、卡在哪、怎麼解」，設計理由放 `design.md`。
 
+## 2026-10-13 部署正式站
+
+### 做了什麼
+
+- `pnpm typecheck` 與 `pnpm test`（26 個）通過後，`pnpm deploy` 第一次部署。wrangler 依 `routes` 的 `custom_domain: true` 自動建立 `mcp.tarot.shinder.work` 的 DNS 與憑證，不需要手動到 dashboard 設定。版本 158aa810。
+- 上傳 892 KiB（gzip 206 KiB），Worker 啟動 42 ms。
+- 驗證：
+  - `GET /health` 回 `{"ok":true,"cards":78}`，`GET /` 首頁文字正常。
+  - `MCP_URL=https://mcp.tarot.shinder.work/mcp pnpm smoke` 全部通過。
+  - `claude -p "幫我抽今日一牌，簡短解讀"` 接正式站，模型呼叫順序 `draw_cards(daily)` → `get_card(cups-13)`，與本機行為一致。
+
+### 觀察到、還沒處理
+
+- wrangler 4.127 的 OAuth token 少了 `challenge-widgets.write` scope，只是警告，不影響部署；下次 `wrangler login` 會補上。
+- wrangler 有新版 4.149，尚未升級。
+
+### 下一步
+
+1. 建 GitHub repo，推上去。
+2. 加進 Upwork 作品集（動作品集前先讀 astro 與 tarot 專案的 `upwork-portfolio-en-ui.md`）。
+3. 錄一段 Loom 示範影片（Upwork「MCP Server Developer - Bug Fix」案子要求）。
+
 ## 2026-09-03 真實對話驗證工具描述
 
 ### 做了什麼
@@ -37,6 +59,9 @@
 - 大牌陣一律 full 模式，凱爾特十字一次拉十張長文，約 3,300 個輸出 token 以上的解讀。目前可接受，若之後要省 token，可在描述裡建議大牌陣先用 brief。
 - 使用者只說「三張牌陣」時，模型自行選了 action，沒有先問。這是合理判斷，暫不處理。
 - `claude -p` 每段對話都會先跑一次 ToolSearch 載入工具定義，這是 Claude Code 的延遲載入機制，不是 server 的問題。
+
+- 寫了 `docs/mcp-tutorial.md`：以本專案為例的 MCP 教學，十二節，從協定講到部署。文中的協定行為（stateless 不發 session id、notification 回 202、GET 回 405、少 Accept 回 406、四種錯誤的長相）都用 curl 對本機 server 驗證過。
+  順帶查清一件事：`wrangler dev` 前面的代理會把 Host 改寫成 localhost，所以本機用 curl 送錯的 Host 也會過，不代表 `allowedHostnames` 沒作用；Node 測試沒有這層代理，少了 Host 就是 403。
 
 ### 下一步
 

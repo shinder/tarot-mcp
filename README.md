@@ -125,6 +125,7 @@ scripts/
   sync-data.mjs     從塔羅站同步 cards.json
   smoke.mjs         線上冒煙測試
 docs/
+  mcp-tutorial.md   MCP 教學：協定、實作、測試、部署，以本專案為例
   design.md         設計決策與取捨
   dev-log.md        開發日誌
 ```

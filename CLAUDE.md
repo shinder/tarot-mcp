@@ -2,7 +2,7 @@
 
 Rider-Waite-Smith 塔羅牌的遠端 MCP server，Cloudflare Workers 上的 stateless Streamable HTTP 端點。
 資料來自塔羅站 repo（`../tarot_shinder_work`），本專案是它的「給 AI 用的參考書」。
-整體說明見 `README.md`，設計理由見 `docs/design.md`，進度與卡點見 `docs/dev-log.md`。
+整體說明見 `README.md`，設計理由見 `docs/design.md`，進度與卡點見 `docs/dev-log.md`，MCP 協定與實作教學見 `docs/mcp-tutorial.md`。
 
 ## 常用指令
 
